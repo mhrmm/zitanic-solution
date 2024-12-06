@@ -1,0 +1,872 @@
+PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name,Transported
+0004_01,Earth,False,F/1/S,TRAPPIST-1e,16.0,False,303.0,70.0,151.0,565.0,2.0,Onoyo Oatkhasem,True
+0006_02,Earth,True,G/0/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Tushagohoro Klorchu,True
+0020_01,Earth,True,E/0/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Gumdo Chunbf,False
+0028_01,Mars,False,F/8/P,TRAPPIST-1e,43.0,False,1125.0,0.0,136.0,48.0,0.0,Tomazocha Prohns,False
+0031_01,Mars,False,F/9/P,TRAPPIST-1e,47.0,False,214.0,0.0,1411.0,0.0,1229.0,Teyeto Roymur,True
+0043_01,Europa,False,B/3/P,TRAPPIST-1e,45.0,False,0.0,164.0,45.0,2511.0,855.0,Chomogocha Gourtmur,False
+0044_02,Earth,True,G/3/P,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Tsinunoso Harst,True
+0045_02,Mars,True,F/10/P,???,19.0,False,0.0,0.0,0.0,0.0,0.0,Yononiro Peirmu,True
+0053_01,Earth,False,F/11/S,TRAPPIST-1e,25.0,False,0.0,0.0,1938.0,0.0,1.0,Nazinocha Kernokch,True
+0064_01,Mars,True,F/14/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Harocha Luwy,True
+0067_02,Earth,False,G/10/S,TRAPPIST-1e,18.0,False,1.0,258.0,446.0,0.0,0.0,Fichizovo Luol,True
+0073_01,Mars,False,D/3/P,PSO J318.5-22,37.0,False,46.0,83.0,738.0,0.0,12.0,Chote Rausu,False
+0082_01,Mars,False,F/16/P,TRAPPIST-1e,42.0,False,7406.0,0.0,0.0,0.0,0.0,Shepe Lomdoi,False
+0088_01,Mars,True,E/5/S,PSO J318.5-22,45.0,False,0.0,0.0,0.0,0.0,0.0,Ochonotsi Golloghur,True
+0090_01,Earth,True,G/15/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Chironekha Pirkh,True
+0091_01,Earth,True,G/16/S,TRAPPIST-1e,26.0,False,0.5,0.0,0.0,0.0,0.0,Inucha Flymm,True
+0099_02,Earth,False,G/12/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Nayozovo Oppos,True
+0123_01,Earth,False,F/27/P,TRAPPIST-1e,18.0,False,55.0,597.0,49.0,0.0,1.0,Yeshachovo Pukchurt,False
+0126_01,Mars,True,F/27/S,TRAPPIST-1e,67.0,False,0.0,0.0,0.0,0.0,0.0,Onoyo Fless,True
+0141_01,Mars,False,F/30/P,TRAPPIST-1e,31.0,False,220.0,0.0,97.0,0.0,0.0,Hotochuyono Vukhslur,False
+0160_01,Earth,False,G/22/P,TRAPPIST-1e,22.0,False,4119.0,0.0,0.0,0.0,61.0,Medo Hollu,False
+0173_01,Earth,False,E/11/S,TRAPPIST-1e,58.0,False,0.0,985.0,0.0,5.0,0.0,Nazinocha Velfu,True
+0182_01,Europa,True,C/3/P,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Emasha Eochus,True
+0183_01,Earth,False,F/36/S,TRAPPIST-1e,37.0,False,17.0,146.0,426.0,0.0,232.0,Dugikha Mulsem,True
+0220_03,Earth,True,G/37/P,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Togikha Zalpurskhlog,False
+0221_07,Mars,True,E/13/S,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,Nayesha Cheumag,False
+0234_01,Earth,False,F/50/P,TRAPPIST-1e,43.0,False,28.0,888.0,0.0,0.0,0.0,Sehdo Ortz,False
+0269_01,Earth,False,F/52/S,55 Cancri e,47.0,False,0.0,231.0,592.0,0.0,0.0,Chohoyo Foist,True
+0270_01,Earth,False,F/59/P,TRAPPIST-1e,63.0,False,0.0,25.0,128.0,0.0,1240.0,Fichiyono Gresz,False
+0288_01,Earth,False,F/55/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,828.0,Jichede Hulluvugu,False
+0297_01,Earth,False,G/47/P,TRAPPIST-1e,24.0,False,90.0,2.0,1324.0,17.0,0.0,Tsido Uwursem,True
+0302_01,Earth,False,F/67/P,TRAPPIST-1e,23.0,False,0.0,0.0,15.0,0.0,1370.0,Atona Heffnomm,False
+0303_01,???,True,G/41/S,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Shanozi Galchs,True
+0304_01,Europa,False,E/18/S,TRAPPIST-1e,28.0,False,0.0,422.0,0.0,1851.0,5166.0,Tochuchovo Dautrakh,False
+0306_01,Earth,False,E/19/S,TRAPPIST-1e,23.0,False,368.0,175.0,259.0,1.0,101.0,Tsichonete Drukhslur,False
+0320_02,Earth,False,G/44/S,TRAPPIST-1e,21.0,False,0.0,5.0,3.0,0.0,0.0,Teyetena Skhrodur,False
+0324_01,Earth,True,G/53/P,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,Iushano Odumoiur,False
+0337_03,Mars,False,F/63/S,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,Khachomotsi Chmapp,True
+0340_01,Europa,True,B/10/S,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Iuhoro Vamstomluy,True
+0343_01,Earth,False,F/76/P,PSO J318.5-22,31.0,False,121.0,0.0,0.0,274.0,907.0,Hado Wegul,False
+0376_01,Earth,False,G/54/S,TRAPPIST-1e,22.0,False,116.0,0.0,786.0,6.0,0.0,Mochoe Wakory,True
+0378_01,Europa,False,B/11/S,55 Cancri e,18.0,False,17.0,215.0,4.0,5132.0,697.0,Tochuniro Pluaur,False
+0401_01,Mars,False,D/14/S,TRAPPIST-1e,30.0,True,1056.0,0.0,0.0,0.0,0.0,Chege Ehnu,False
+0407_01,Earth,False,G/69/P,TRAPPIST-1e,23.0,False,88.5,21.0,0.0,0.0,1699.0,Mochodo Helzchmukht,False
+0415_01,Earth,True,G/60/S,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,Namoteyo Womatemdur,False
+0453_02,Europa,True,???,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Nirosu Duwlam,True
+0453_03,Europa,True,B/14/S,TRAPPIST-1e,74.0,False,0.0,0.0,0.0,0.0,0.0,Tsija Eldhon,True
+0460_01,Earth,True,G/65/S,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,Avohoro Dikch,True
+0468_01,Earth,True,???,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Echomoyo Okchur,False
+0482_01,Earth,False,E/28/S,TRAPPIST-1e,27.0,False,0.0,118.0,0.0,5.0,665.0,Inora Vormur,False
+0498_02,Europa,True,B/18/S,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,Yecheyono Hollutt,True
+0504_04,Europa,False,B/19/S,TRAPPIST-1e,64.0,False,0.0,1737.0,11.0,401.0,752.0,Chepoyosha Boturmestur,False
+0522_01,Earth,False,E/33/P,TRAPPIST-1e,42.0,False,0.0,0.0,750.0,0.0,156.0,Oravoro Leras,False
+0529_01,Earth,True,G/81/P,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,Ipeshato Hurpurt,False
+0534_02,Europa,False,B/23/P,TRAPPIST-1e,49.0,False,3573.0,1308.0,316.0,641.0,25.0,Hoteyono Gresz,False
+0537_01,Earth,False,G/83/P,TRAPPIST-1e,22.0,False,0.0,5.0,0.0,320.0,352.0,Natsihori Prutz,False
+0539_02,Europa,True,C/18/P,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,Yonoshato Maulsem,True
+0539_03,???,True,C/18/P,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Ipeshato Chamkham,True
+0549_02,Mars,True,F/98/S,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Nosoecho Fruy,True
+0560_03,???,False,F/103/S,TRAPPIST-1e,44.0,False,1440.0,293.0,74.0,32.0,0.0,Ashahoro Ukchursoll,True
+0571_01,Europa,True,C/21/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Noriso Dibemt,True
+0583_01,Mars,True,F/109/S,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Mochodom Uxtem,True
+0586_01,Europa,True,D/23/P,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,Chovosovo Vuppur,True
+0614_01,Earth,False,G/91/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,Ime Geedu,True
+0615_01,Earth,True,G/92/S,TRAPPIST-1e,58.0,False,0.0,0.0,0.0,0.0,0.0,Amoe Rakhord,False
+0615_03,Earth,True,G/92/S,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,Teyeto Luvas,True
+0634_01,Earth,False,F/135/P,TRAPPIST-1e,39.0,False,0.0,1496.0,0.0,140.0,383.0,Nirosu Fromchu,False
+0642_01,Europa,False,C/25/S,55 Cancri e,29.0,False,0.0,3344.0,0.0,118.0,972.0,Epoto Soniul,True
+0642_04,Europa,True,C/25/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Chirehache Pormus,True
+0643_01,Mars,False,F/138/P,TRAPPIST-1e,19.0,False,1019.0,266.0,141.0,0.0,0.0,Ime Fronbtem,True
+0645_01,Earth,False,G/98/P,???,20.0,False,1724.0,0.0,0.0,1.0,0.0,Asepu Goss,False
+0650_01,Earth,True,G/95/S,PSO J318.5-22,3.0,False,0.0,0.0,0.0,0.0,0.0,Mochodom Yord,True
+0653_01,Mars,False,E/45/S,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Chote Lovm,True
+0671_01,Earth,True,G/102/P,PSO J318.5-22,46.0,False,0.0,0.0,0.0,0.0,0.0,Harogo Dekhurty,True
+0683_01,Mars,False,F/144/P,TRAPPIST-1e,30.0,False,269.0,96.0,252.0,0.0,0.0,Tochuikha Skhistur,False
+0685_01,Earth,False,E/41/P,TRAPPIST-1e,41.0,False,1.0,922.0,4.0,55.0,15.0,Chovotochu Luhrur,False
+0705_01,Earth,False,F/149/P,55 Cancri e,43.0,False,0.0,0.0,722.0,0.0,0.0,Tomgu Nerluy,True
+0714_01,Earth,True,G/109/P,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,0.0,Neteyesha Cheino,True
+0728_01,Earth,False,F/134/S,55 Cancri e,29.0,False,0.0,0.0,2.0,786.0,594.0,Hosuchiro Ittem,True
+0740_03,Europa,False,C/24/P,TRAPPIST-1e,41.0,False,3594.0,3425.0,0.0,0.0,58.0,Mochodom Poingortmur,False
+0770_01,Earth,True,G/117/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Megisha Gromur,False
+0770_06,Earth,True,G/117/S,PSO J318.5-22,7.0,False,0.0,0.0,0.0,0.0,0.0,Nirchona Charchveed,True
+0779_01,Earth,False,F/162/P,???,21.0,False,562.0,2.0,0.0,0.0,11.0,Hagesha Skhuampurg,False
+0784_01,Europa,True,C/33/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Mochoyono Prekch,True
+0785_01,Earth,False,F/165/P,TRAPPIST-1e,32.0,False,713.0,0.0,2.0,0.0,1.0,Soate Pruamur,False
+0786_01,Earth,True,G/113/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Jinemja Botkhutt,True
+0809_01,Mars,False,F/151/S,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,5.0,Epoto Pommur,True
+0809_04,Mars,False,F/151/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Hogame Udnemds,True
+0840_01,Earth,False,G/123/P,TRAPPIST-1e,27.0,False,663.0,1111.0,0.0,0.0,2.0,Yeshafina Chroisu,False
+0846_01,Earth,True,G/125/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Yihoro Vrikch,False
+0853_01,???,True,A/9/S,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,Omona Gallusbau,True
+0863_03,Earth,True,G/129/S,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,Hogame Pikchheltz,False
+0865_02,Europa,True,B/35/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Hesechoyo Chalmur,True
+0889_01,Europa,False,C/32/P,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Achamo Norqiuramg,False
+0893_01,Earth,True,G/129/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Namopikha Usom,True
+0899_01,Earth,False,F/187/P,TRAPPIST-1e,26.0,False,0.0,0.0,716.0,0.0,1.0,Morohosha Kemmuuly,True
+0922_01,Europa,True,B/35/P,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,613.0,Nemenemea Hortluy,True
+0924_01,Earth,False,E/67/S,TRAPPIST-1e,33.0,False,13.0,0.0,984.0,0.0,0.0,Akhasodo Telchaum,False
+0925_03,Mars,True,F/191/P,TRAPPIST-1e,41.0,False,0.0,3996.0,0.0,0.0,0.0,Sochoa Hubpirm,True
+0960_01,Earth,False,E/72/S,TRAPPIST-1e,19.0,False,3.0,0.0,4.0,0.0,788.0,Tochohono Goss,False
+0964_02,Europa,True,B/36/P,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Ezocha Gappem,True
+0979_01,Europa,False,B/40/S,???,44.0,False,0.0,0.0,0.0,0.0,0.0,Nahosha Radlu,True
+0994_02,Earth,False,F/185/S,TRAPPIST-1e,26.0,False,621.0,1.0,98.0,11.0,135.0,Echiniro Vuaa,False
+1015_01,Earth,False,F/189/S,TRAPPIST-1e,44.0,False,0.0,131.0,267.0,554.0,0.0,Sochochaporo Zannurnomm,False
+1026_01,Earth,True,G/159/S,TRAPPIST-1e,21.0,False,379.5,0.0,0.0,0.0,0.0,Mochozovo Mirunpurg,False
+1027_01,Mars,False,F/211/P,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,Yeshamepi Udnemds,True
+1038_01,Earth,False,G/163/S,TRAPPIST-1e,47.0,False,0.0,306.0,84.0,499.0,0.0,Chetechi Luatz,False
+1040_01,Earth,False,G/164/S,PSO J318.5-22,15.0,False,521.0,162.0,62.0,5.0,0.0,Hareto Reissul,True
+1047_01,Earth,True,G/156/P,TRAPPIST-1e,58.0,False,0.0,0.0,0.0,0.0,0.0,Shachich Nkkemmull,True
+1083_03,Mars,False,F/206/S,TRAPPIST-1e,18.0,False,556.0,0.0,0.0,852.0,6.0,Morote Mernom,True
+1102_01,Mars,False,F/227/P,PSO J318.5-22,39.0,False,173.0,0.0,660.0,1.0,781.0,Ieyo Chimzu,False
+1105_01,Earth,False,F/208/S,TRAPPIST-1e,17.0,False,82.0,0.0,263.0,16.0,515.0,Oshao Skhinokhur,False
+1110_01,Europa,False,C/42/S,TRAPPIST-1e,23.0,False,0.0,24.0,0.0,55.0,7516.0,Ameiu Prihm,False
+1112_01,Europa,False,B/39/P,55 Cancri e,40.0,False,0.0,4076.0,6124.0,58.0,100.0,Horo Plochu,True
+1121_01,Earth,False,F/229/P,PSO J318.5-22,55.0,False,98.0,46.0,0.0,743.0,0.0,Tomino Appetsem,True
+1148_06,Europa,True,C/42/P,TRAPPIST-1e,29.0,False,0.0,0.0,38.0,0.0,0.0,Mochosemu Woighom,True
+1148_07,Europa,False,C/42/P,55 Cancri e,34.0,False,2386.0,841.0,76.0,26.0,1693.0,Seteniro Chastmur,False
+1173_01,Earth,False,G/182/S,PSO J318.5-22,24.0,False,96.0,592.0,12.0,0.0,0.0,Shepe Ochron,True
+1187_01,Earth,False,F/228/S,TRAPPIST-1e,30.0,False,0.0,575.0,180.0,4.0,44.0,Tocho Imchlu,False
+1211_03,Earth,True,G/186/S,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,Emasha Omgis,True
+1221_01,Earth,False,G/188/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Ochanete Olthois,False
+1228_01,Mars,True,???,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Ezocha Reffuy,True
+1243_01,Europa,False,A/9/P,TRAPPIST-1e,41.0,False,0.0,4224.0,0.0,1374.0,1281.0,Yimechovo Herevatz,False
+1269_01,Mars,False,E/80/P,TRAPPIST-1e,21.0,False,2066.0,0.0,15.0,0.0,1.0,Yoniro Norqiuramch,False
+1304_02,Earth,False,E/82/P,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Aunekha Podur,False
+1308_03,Europa,False,E/94/S,55 Cancri e,37.0,False,0.0,439.0,0.0,3198.0,6.0,Shanochogu Pust,False
+1308_04,Europa,True,E/94/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Etsicho Uddasem,True
+1316_02,Europa,False,E/95/S,55 Cancri e,36.0,False,0.0,847.0,11.5,4664.0,89.0,Etochu Chobbul,False
+1326_02,Mars,False,F/257/S,TRAPPIST-1e,19.0,False,1507.0,0.0,260.0,0.0,0.0,Nayozovo Hoos,False
+1333_01,Earth,False,F/269/P,PSO J318.5-22,32.0,False,0.0,486.0,0.0,229.0,26.0,Onera Gurstlu,False
+1365_01,Europa,False,B/58/S,55 Cancri e,33.0,False,77.0,2381.0,0.0,3656.0,150.0,Fimocha Choifnom,False
+1378_02,Earth,False,F/275/P,TRAPPIST-1e,22.0,False,926.0,0.0,0.0,0.0,78.0,Hosugovo Boskeu,True
+1387_01,Mars,False,E/85/P,TRAPPIST-1e,31.0,False,1088.0,0.0,280.0,0.0,0.0,Tochunatsi Chebb,False
+1391_02,Mars,False,F/276/P,TRAPPIST-1e,21.0,False,1072.0,79.0,46.0,16.0,0.0,Chinogou Bramz,False
+1404_01,Europa,False,B/60/S,TRAPPIST-1e,47.0,False,1.0,734.0,28.0,78.0,3471.0,Maajano Dautrakh,False
+1415_01,Europa,False,D/45/P,55 Cancri e,33.0,False,13.0,0.0,2011.0,17.0,32.0,Charo Burram,True
+1439_01,Mars,False,F/279/S,TRAPPIST-1e,41.0,False,112.0,186.0,228.0,760.0,0.0,Duisha Sennur,False
+1443_01,Earth,True,G/225/P,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Yeshaecho Gappem,True
+1455_01,Europa,True,B/62/S,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Chemeu Linluy,True
+1455_03,Europa,True,B/62/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Eecho Rovsthermu,True
+1457_01,Earth,False,E/110/S,TRAPPIST-1e,61.0,False,0.0,368.0,3.0,4422.0,0.0,Nozovo Bobb,False
+1462_01,Earth,True,G/231/P,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,Chote Aremnom,True
+1465_01,Earth,False,G/233/P,PSO J318.5-22,63.0,False,356.0,287.0,0.0,0.0,248.0,Amichoa Cholpfluaskh,False
+1474_01,Mars,True,F/287/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,239.0,0.0,Avoso Fumm,True
+1493_01,Earth,False,F/285/S,TRAPPIST-1e,38.0,False,35.0,0.0,0.0,0.0,713.0,Sovonotsi Farpur,False
+1500_06,Earth,True,G/230/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Yomoga Hedchamsem,True
+1500_07,Earth,True,G/230/S,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Sigovoro Vhatpy,True
+1506_01,Earth,False,F/298/P,???,19.0,False,0.0,24.0,615.0,9.0,0.0,Some Konbpull,True
+1528_01,Mars,False,D/50/P,55 Cancri e,18.0,False,3992.0,673.0,1360.0,2.0,0.0,Mezoro Bramku,True
+1531_01,Earth,False,G/237/S,TRAPPIST-1e,46.0,False,0.0,0.0,533.0,277.0,0.0,Mochonete Pahnu,False
+1548_01,Europa,True,B/50/P,55 Cancri e,51.0,False,0.0,0.0,0.0,0.0,0.0,Somje Omchur,True
+1548_02,Europa,True,B/50/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Fijanete Firlemg,True
+1551_01,Europa,False,E/96/P,TRAPPIST-1e,30.0,False,0.0,1376.0,43.0,0.0,1460.0,Echomoyo Kemmer,True
+1558_01,Earth,False,G/247/P,TRAPPIST-1e,62.0,False,877.0,15.0,0.0,0.0,1.0,Toaro Choipu,False
+1568_02,Earth,True,G/248/P,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,Oado Chummudy,True
+1572_02,Earth,False,F/309/P,TRAPPIST-1e,25.0,False,4.0,0.0,146.0,723.0,0.0,Osome Chossnuyur,False
+1590_01,Europa,False,D/57/S,TRAPPIST-1e,37.0,False,0.0,1336.0,2.0,12.0,7.0,Eecho Nkklischuy,True
+1592_01,Europa,False,C/60/S,TRAPPIST-1e,35.0,False,305.0,3621.0,0.0,320.0,341.0,Chohoyo Gluv,True
+1612_01,Europa,False,E/101/P,TRAPPIST-1e,49.0,False,0.0,3750.0,0.0,2.0,341.0,Shapo Valchs,True
+1621_01,Earth,False,F/308/S,55 Cancri e,25.0,False,553.0,0.0,1.0,239.0,8.0,Chatopotochu Momda,True
+1621_02,Earth,False,F/308/S,PSO J318.5-22,25.0,False,172.0,129.0,41.0,0.0,341.0,Seteniro Upmur,False
+1624_01,Earth,True,G/250/S,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,Chovosocha Regursem,True
+1630_02,Earth,True,G/252/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Sue Stromd,False
+1646_01,Earth,False,G/264/P,TRAPPIST-1e,34.0,False,0.0,0.0,885.0,0.0,0.0,Sigato Ruuwu,True
+1650_01,Earth,True,G/258/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Sote Reemuy,True
+1651_03,Earth,True,G/266/P,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,Chonokha Praght,True
+1685_03,Earth,True,G/272/P,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Yonomeikha Rheodus,True
+1697_01,Earth,False,G/274/P,TRAPPIST-1e,23.0,False,0.0,13.0,0.0,773.0,0.0,Mezoro Skhumkch,False
+1704_01,Mars,False,D/60/S,TRAPPIST-1e,13.0,False,1112.0,0.0,687.0,0.0,3.0,Ute Voldfegul,False
+1712_02,Mars,False,F/339/P,TRAPPIST-1e,27.0,False,103.0,1.0,49.0,2421.0,24.0,Nazegikha Chamag,False
+1717_01,Earth,False,E/105/P,TRAPPIST-1e,40.0,False,813.0,0.0,473.0,236.0,0.0,Chotsinoto Tamsluy,True
+1727_01,Mars,True,F/342/P,???,38.0,False,0.0,0.0,0.0,0.0,0.0,Asoyono Gruumsnath,True
+1740_01,Earth,False,G/270/S,TRAPPIST-1e,22.0,False,762.0,13.0,10.0,0.0,0.0,Hareyicha Hekh,False
+1745_01,Europa,False,E/130/S,TRAPPIST-1e,28.0,False,0.0,1310.0,0.0,221.0,6064.0,Ashamenera Bfummamg,False
+1748_02,Earth,False,G/287/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Nochido Chaifur,False
+1753_01,Earth,True,G/272/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Shagucha Glummau,True
+1768_01,Earth,False,G/276/S,TRAPPIST-1e,52.0,False,0.0,24.0,0.0,732.0,0.0,Asuyo Poinhoiur,False
+1772_01,Mars,False,F/348/P,TRAPPIST-1e,30.0,False,1220.0,0.0,49.0,39.0,0.0,Toaro Skhradur,False
+1776_01,Earth,False,G/278/S,TRAPPIST-1e,21.0,False,0.0,0.0,809.0,0.0,0.0,Chegoro Chlessmur,False
+1783_01,Earth,False,G/281/S,55 Cancri e,42.0,False,28.0,0.0,0.0,0.0,591.0,Chovogasha Pruasokhur,False
+1797_01,Europa,True,B/57/P,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Tomazocha Tatnorsh,True
+1800_05,Earth,True,G/283/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Harosa Veeldradgu,True
+1803_01,Earth,False,F/354/P,55 Cancri e,23.0,False,0.0,169.0,0.0,553.0,0.0,Echopu Chosbor,False
+1821_01,Earth,False,G/298/P,TRAPPIST-1e,26.0,False,1.0,4.0,361.0,0.0,19.0,Ute Luatmur,False
+1822_01,Earth,False,G/299/P,TRAPPIST-1e,31.0,False,2.0,811.0,0.0,0.0,0.0,Gumsoa Gialnord,True
+1843_01,Europa,False,E/112/P,TRAPPIST-1e,46.0,False,2249.0,153.0,137.0,0.0,194.0,Shachatua Okchur,False
+1844_02,Earth,True,G/289/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Nete Olgor,True
+1850_01,Earth,False,F/356/S,PSO J318.5-22,54.0,False,0.0,316.0,257.0,0.0,0.0,Natzisocho Helznomm,False
+1850_02,Earth,False,F/356/S,55 Cancri e,25.0,False,0.0,0.0,1.0,735.0,25.0,Noripuma Sanems,False
+1855_02,Earth,False,E/113/P,TRAPPIST-1e,39.0,False,0.0,43.0,864.0,0.0,85.0,Mogoa Fikhs,False
+1860_02,Europa,False,A/13/P,55 Cancri e,35.0,False,95.0,3441.0,0.0,391.0,318.0,Sharomu Puhrumd,False
+1865_02,Earth,False,G/292/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Chovogasha Olusharu,False
+1868_01,Mars,True,F/372/P,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,0.0,0.0,Hagoshachima Shorbu,True
+1882_02,Europa,True,???,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Sochoa Furm,True
+1889_02,Earth,True,G/307/P,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,Finahache Promd,False
+1902_01,Earth,False,G/298/S,TRAPPIST-1e,19.0,False,42.0,0.0,345.0,1431.0,0.0,Chogopi Weagt,False
+1918_01,Europa,True,A/23/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Teyedo Luatz,False
+1945_01,Earth,False,E/120/P,TRAPPIST-1e,15.0,False,0.0,0.0,787.0,0.0,0.0,Moate Bovlatzcha,False
+1950_01,Earth,False,F/374/S,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,101.0,1357.0,Shamezocha Hosumchonb,False
+1957_01,Earth,True,G/309/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Yononiro Nuam,False
+1959_01,Europa,True,C/66/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Fijanocha Chalmom,True
+1959_02,Europa,False,C/66/P,TRAPPIST-1e,40.0,False,0.0,382.0,0.0,1.0,3822.0,Nirosocha Rattur,False
+1977_01,Mars,True,F/393/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Etoma Pidd,True
+1981_01,Earth,False,E/124/P,TRAPPIST-1e,27.0,False,196.0,602.0,0.0,0.0,198.0,Ehnayo Pukchu,False
+1984_01,Europa,False,???,55 Cancri e,37.0,False,0.0,3166.0,0.0,91.0,6.0,Orato Eochus,True
+1988_01,Earth,True,G/321/P,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Motogo Skhmeer,False
+1993_01,Earth,False,F/380/S,TRAPPIST-1e,31.0,False,1062.0,0.0,802.0,71.0,0.0,Dugikha Nuyur,False
+2009_01,Europa,False,B/59/P,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Tomazocha Wea,False
+2028_01,Earth,False,F/391/S,PSO J318.5-22,24.0,False,662.0,0.0,0.0,0.0,9.0,Tochoniro Cholpfluaskh,False
+2040_02,Europa,True,B/85/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Chotoyomoga Jomus,True
+2070_01,Earth,False,E/127/P,TRAPPIST-1e,17.0,False,0.0,1.0,533.0,326.0,0.0,Fisu Herrekchs,True
+2086_02,Europa,False,A/26/S,TRAPPIST-1e,19.0,False,0.0,1342.0,0.0,152.0,556.0,Chenotsizocha Muvoll,True
+2114_01,Europa,True,B/87/S,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,Yonochogu Galpuy,True
+2134_01,Mars,False,F/422/P,TRAPPIST-1e,20.0,False,1146.0,0.0,0.0,0.0,3.0,Ehnayo Ualurts,False
+2163_01,Earth,False,G/349/P,TRAPPIST-1e,27.0,False,0.0,0.0,6.0,745.0,22.0,Tsishano Gorwur,False
+2186_01,Earth,True,G/350/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Omde Giturnith,False
+2190_01,Earth,False,F/430/S,???,20.0,False,1750.0,0.0,446.0,0.0,76.0,Chisihoro Hekhpurg,False
+2198_01,Earth,False,E/156/S,55 Cancri e,61.0,False,0.0,654.0,902.0,0.0,68.0,Chanae Dorpy,True
+2203_01,Mars,False,D/76/S,TRAPPIST-1e,43.0,False,2019.0,0.0,560.0,0.0,0.0,Sovoniro Durrakch,False
+2210_01,Earth,True,G/355/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Chovosau Nois,False
+2258_01,Earth,True,G/364/P,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Semedo Okchory,True
+2274_01,Europa,True,C/79/P,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Chovopoto Feikhur,True
+2277_01,Earth,False,G/362/S,TRAPPIST-1e,19.0,False,26.0,313.0,470.0,0.0,0.0,Mochodoa Skhmuadur,False
+2278_01,Europa,True,C/80/P,55 Cancri e,18.0,False,0.0,0.0,313.33333333333337,0.0,0.0,Some Fruupirm,True
+2284_01,Mars,False,F/463/P,TRAPPIST-1e,18.0,False,262.0,302.0,1127.0,4225.0,0.0,Osohoro Puitul,False
+2295_02,Earth,False,F/466/P,TRAPPIST-1e,37.0,False,0.0,8.0,70.0,360.0,258.0,Shanazi Ruttag,False
+2302_01,Europa,False,A/18/P,TRAPPIST-1e,54.0,True,0.0,3381.0,0.0,4463.0,34.0,Honokhe Volchumherst,False
+2303_01,Mars,False,F/468/P,55 Cancri e,52.0,False,1377.0,0.0,32.0,22.0,0.0,Choano Uwuratt,True
+2306_03,Europa,False,C/82/P,TRAPPIST-1e,22.0,False,0.0,297.0,3.0,676.0,2924.0,Chease Lofrumz,False
+2310_03,Europa,False,D/68/P,TRAPPIST-1e,59.0,False,0.0,2210.0,0.0,4085.0,11.0,Fijanete Hoibt,False
+2313_01,Mars,False,F/469/P,TRAPPIST-1e,29.0,False,1365.0,0.0,791.0,210.0,0.0,Yosihare Heich,False
+2315_01,Europa,True,B/67/P,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Chovozi Meggams,True
+2317_01,Earth,False,G/372/S,TRAPPIST-1e,39.0,False,0.0,454.0,0.0,454.0,0.0,Chohou Guaur,False
+2347_06,Earth,False,G/377/P,55 Cancri e,31.0,False,1.0,0.0,2.0,605.0,0.0,Togikha Skhihnokhur,False
+2367_01,Earth,False,F/483/P,TRAPPIST-1e,19.0,False,0.0,0.0,1.0,644.0,0.0,Tenacho Chebb,False
+2375_01,Earth,False,G/383/P,55 Cancri e,22.0,False,0.0,0.0,659.0,94.0,0.0,Yonopu Lenos,True
+2385_01,Mars,False,F/461/S,TRAPPIST-1e,23.0,False,1773.0,0.0,78.0,0.0,3.0,Ochotsicho Chmuap,False
+2387_01,Earth,False,E/142/P,TRAPPIST-1e,58.0,False,886.5,400.0,0.0,690.0,490.0,Chosisu Reppams,True
+2391_01,Earth,False,E/143/P,TRAPPIST-1e,20.0,False,768.0,19.0,0.0,1.0,0.0,Chechom Sauchurt,False
+2396_01,Earth,False,E/168/S,TRAPPIST-1e,46.0,False,0.0,557.0,0.0,287.0,781.0,Nazime Reth,False
+2397_01,Earth,False,G/387/S,55 Cancri e,36.0,False,0.0,810.0,0.0,0.0,0.0,Natsipasha Rakhtur,False
+2414_01,Europa,False,T/1/P,TRAPPIST-1e,42.0,False,0.0,1829.0,2.0,3133.0,2447.0,Asuyo Resumfuld,False
+2417_01,Earth,False,G/393/P,TRAPPIST-1e,32.0,False,11.0,31.0,0.0,836.0,9.0,Haro Stebbulpuam,False
+2423_01,Earth,True,G/395/P,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Hosuchiro Chroiss,False
+2438_01,Mars,True,F/503/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Osihoro Burcham,True
+2443_01,???,False,D/72/P,TRAPPIST-1e,31.0,False,1458.0,421.0,76.0,0.0,0.0,Chepoyosha Odumoiur,False
+2449_02,Mars,True,E/146/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Neramogo Paskh,False
+2506_02,Europa,True,A/19/P,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,Anoniro Stikchuy,True
+2516_01,Earth,False,G/406/P,55 Cancri e,29.0,False,75.0,17.0,0.0,211.0,506.0,Chotoyono Hopakht,False
+2523_01,Europa,True,B/73/P,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Mesu Makchul,True
+2542_01,Mars,False,E/153/P,TRAPPIST-1e,29.0,False,834.0,0.0,28.0,117.0,41.0,Chemou Chrisu,False
+2549_01,Mars,False,F/522/P,TRAPPIST-1e,62.0,False,1663.0,0.0,23.0,2.0,12.0,Shamezocha Sennur,False
+2588_01,Earth,False,G/419/P,TRAPPIST-1e,28.0,False,4.0,166.0,743.0,0.0,0.0,Terasua Vulsh,True
+2592_02,Mars,False,D/75/P,TRAPPIST-1e,18.0,False,1102.0,9.0,2628.0,0.0,0.0,Chosoa Paurnomm,False
+2595_01,Mars,False,F/533/P,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,Tsiriyo Gruumhall,True
+2595_02,Mars,False,F/533/P,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Upamo Wolu,True
+2625_02,Earth,False,E/160/P,TRAPPIST-1e,22.0,False,0.0,1.0,271.0,0.0,1348.0,Yoniro Wemaussum,False
+2649_01,Mars,False,D/79/P,TRAPPIST-1e,16.0,False,46.0,0.0,1994.0,0.0,677.0,Cheme Hopakh,False
+2658_01,Earth,False,F/549/P,TRAPPIST-1e,21.0,False,366.0,1136.0,795.0,132.0,0.0,Mogoa Hefnomm,False
+2709_02,Mars,False,F/523/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Mochoe Nalvord,True
+2712_01,Europa,True,B/105/S,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Chovokha Lemgverth,True
+2721_01,Earth,False,F/563/P,PSO J318.5-22,25.0,False,21.0,746.0,55.0,0.0,4.0,Orochovo Voldwegul,False
+2726_01,Earth,True,G/440/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Shaneharo Chrem,False
+2732_02,Earth,False,G/435/S,55 Cancri e,6.0,False,0.0,0.0,0.0,0.0,0.0,Mashachovo Stinbf,False
+2750_01,Earth,False,F/571/P,TRAPPIST-1e,18.0,False,600.0,0.0,0.0,179.0,11.0,Tomcheshatsi Ulnharst,True
+2754_01,Earth,False,E/166/P,TRAPPIST-1e,13.0,False,911.0,1.0,0.0,74.0,0.0,Neduga Lakhtumpurg,False
+2768_01,Earth,False,F/533/S,TRAPPIST-1e,36.0,False,123.0,3.0,0.0,7.0,0.0,Tege Oldrum,True
+2778_01,Mars,False,D/82/P,TRAPPIST-1e,35.0,False,2301.0,0.0,414.0,0.0,0.0,Techiecho Foyu,True
+2780_01,Earth,False,F/578/P,TRAPPIST-1e,24.0,False,14.0,702.0,0.0,0.0,0.0,Tekhachiro Suulumfruimd,False
+2781_01,Earth,True,G/447/P,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Eshano Peur,False
+2789_01,Earth,True,G/450/P,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Shapichja Ehnu,False
+2792_01,Earth,True,G/446/S,PSO J318.5-22,36.0,False,0.0,0.0,0.0,0.0,0.0,Sorena Lomkostur,True
+2799_02,???,True,G/447/S,PSO J318.5-22,23.0,False,0.0,0.0,0.0,0.0,0.0,Chirehache Chuegh,True
+2817_01,???,False,F/584/P,TRAPPIST-1e,25.0,False,237.0,0.0,910.0,0.0,12.0,Dom Muinom,False
+2818_01,Mars,False,F/585/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Amopo Bigh,True
+2822_05,???,True,G/450/S,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,Yeshado Sbukht,False
+2826_01,Europa,False,C/96/P,55 Cancri e,28.0,False,1581.0,213.0,0.0,18.0,3051.0,Tochushato Gramuvold,False
+2835_01,Europa,False,A/24/P,55 Cancri e,26.0,True,0.0,186.0,0.0,548.0,5058.0,Ajara Pekchur,False
+2839_01,Europa,False,C/107/S,TRAPPIST-1e,51.0,False,1.0,3935.0,0.0,146.0,0.0,Teshatolo Burcham,True
+2857_01,Earth,False,F/545/S,PSO J318.5-22,29.0,False,631.0,448.0,0.0,40.0,0.0,Yononete Gurpur,False
+2861_01,Earth,False,F/547/S,TRAPPIST-1e,17.0,False,5.0,756.0,0.0,0.0,0.0,Honodo Bamdur,True
+2867_01,Mars,False,D/89/P,TRAPPIST-1e,41.0,False,71.0,0.0,1617.0,31.0,0.0,Eshano Chohlur,False
+2930_01,Earth,False,G/474/P,TRAPPIST-1e,45.0,False,0.0,9.0,0.0,857.0,16.0,Avohoro Plukhur,False
+2956_01,Earth,False,G/470/S,PSO J318.5-22,28.0,False,3.0,141.0,0.0,0.0,1689.0,Osomino Staupur,False
+2969_01,Earth,False,G/486/P,???,37.0,False,221.0,0.0,32.0,38.0,516.0,Noato Opul,False
+2975_01,Earth,False,F/564/S,PSO J318.5-22,20.0,False,0.0,0.0,585.0,0.0,10.0,Chovoniro Vurmur,False
+2993_01,Earth,False,F/571/S,TRAPPIST-1e,24.0,False,1252.0,6.0,7.0,123.0,706.0,Nishomoecheja Oittumpurg,False
+3027_01,Earth,True,G/493/P,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Tochohosha Promt,False
+3063_03,Earth,False,E/192/P,TRAPPIST-1e,19.0,False,1.0,0.0,0.0,450.0,254.0,Chachitochu Resumpurg,False
+3082_01,Earth,False,G/503/P,PSO J318.5-22,15.0,False,1.0,30.0,1793.0,0.0,0.0,Semu Preechs,True
+3100_02,Earth,False,F/586/S,TRAPPIST-1e,52.0,False,809.0,0.0,0.0,0.0,0.0,Noyizina Gregom,True
+3120_02,Mars,False,E/204/S,TRAPPIST-1e,31.0,False,691.0,3.0,68.0,286.0,0.0,Eshano Skhnatz,False
+3124_01,Mars,True,F/648/P,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,Haromino Drobur,True
+3149_01,Earth,False,G/494/S,TRAPPIST-1e,18.0,False,0.0,730.0,79.0,0.0,0.0,Nozicho Stecheu,True
+3171_01,Earth,True,G/502/S,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Echonete Pirnom,True
+3212_01,Earth,False,E/212/S,TRAPPIST-1e,24.0,False,180.0,264.0,0.0,1225.0,0.0,Chirehache Poinhoiur,False
+3225_01,Europa,True,C/120/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Teje Nkghuu,True
+3252_01,Earth,False,F/613/S,55 Cancri e,53.0,False,8.0,0.0,236.0,0.0,2049.0,Tochocha Gettskholch,False
+3276_01,Europa,False,A/29/P,TRAPPIST-1e,33.0,False,20.0,653.0,0.0,121.0,483.0,Chosoa Chullur,False
+3282_01,Europa,True,B/120/S,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,Surazovo Wollery,True
+3282_03,Europa,False,B/120/S,TRAPPIST-1e,43.0,False,0.0,1440.0,0.0,85.0,150.0,Chepoyosha Potkhuler,True
+3287_03,Earth,False,F/621/S,55 Cancri e,18.0,False,0.0,1.0,14.0,625.0,0.0,Shanudzi Drusdmur,False
+3289_01,Earth,True,G/536/P,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Atona Reyoll,True
+3292_04,Europa,False,B/121/S,TRAPPIST-1e,25.0,True,0.0,0.0,0.0,0.0,0.0,Soucha Lleyd,True
+3318_01,Europa,False,B/123/S,TRAPPIST-1e,39.0,False,0.0,957.0,0.0,22.0,401.0,Votomopu Schultem,True
+3331_01,???,False,F/631/S,TRAPPIST-1e,40.0,False,666.0,4.0,83.0,0.0,50.0,Chotsinoto Tulferd,True
+3353_02,Europa,True,C/125/S,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Ehcho Moysnath,True
+3353_06,Europa,False,C/125/S,TRAPPIST-1e,45.0,False,0.0,1897.0,0.0,880.0,605.0,Somje Schultem,True
+3361_02,Mars,True,F/635/S,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Chotoyomoga Pugin,True
+3386_01,Mars,True,F/641/S,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,Sodo Tuol,True
+3402_01,Mars,False,E/231/S,TRAPPIST-1e,21.0,False,2.0,0.0,898.0,148.0,0.0,Nitsi Poinhoiur,False
+3410_01,Earth,True,G/558/P,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,305.0,Esham Woss,True
+3412_03,Europa,False,B/107/P,TRAPPIST-1e,23.0,False,2.0,6748.0,0.0,23.0,0.0,Tochunatsi Ollamgtem,True
+3423_01,Earth,True,G/561/P,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Inora Flutt,True
+3428_01,Europa,True,C/113/P,55 Cancri e,53.0,False,0.0,0.0,0.0,0.0,0.0,Chotsiro Chamkh,True
+3444_04,Europa,False,B/131/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Chedono Uvam,True
+3480_01,Earth,False,F/655/S,PSO J318.5-22,50.0,False,121.0,558.0,0.0,10.0,0.0,Eniro Eulpurg,False
+3484_02,Earth,False,F/718/P,PSO J318.5-22,62.0,False,3.0,0.0,2908.0,0.0,0.0,Dotu Revlamsem,True
+3485_01,Europa,False,E/237/S,TRAPPIST-1e,49.0,False,0.0,1855.0,0.0,166.0,1655.0,Teshisoa Pihr,False
+3485_03,Europa,False,E/237/S,TRAPPIST-1e,33.0,False,0.0,3157.0,0.0,131.0,0.0,Ikhayono Rinpeld,True
+3525_01,Mars,True,F/727/P,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Shagu Hottem,True
+3540_01,Earth,True,G/579/P,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,Tomshe Porrev,True
+3558_02,Mars,True,F/737/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Heraikha Bhalab,True
+3565_01,Earth,True,G/583/P,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,Chovosovo Deithvoatu,True
+3567_01,Earth,False,F/739/P,TRAPPIST-1e,20.0,False,0.0,0.0,2687.0,35.0,340.0,Nayozovo Mirunpurg,False
+3582_01,Earth,False,G/585/P,TRAPPIST-1e,53.0,False,323.0,120.0,14.0,450.0,0.0,Yonochoza Nknallom,True
+3588_02,Mars,False,D/120/P,TRAPPIST-1e,40.0,False,787.0,0.0,88.0,0.0,0.0,Hokharepua Plukhur,False
+3610_01,Earth,True,G/582/S,???,17.0,False,0.0,0.0,0.0,0.0,0.0,Teshashoa Loytem,True
+3631_01,Earth,False,F/755/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,484.0,344.0,Hogame Rattur,False
+3639_01,Europa,False,B/140/S,TRAPPIST-1e,29.0,False,125.0,5151.0,9.0,1.0,1.0,Tsishano Chummamg,True
+3641_03,Earth,False,???,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Nirochona Dynett,True
+3681_01,Europa,True,B/144/S,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,Iushano Voatu,True
+3716_01,Earth,False,G/603/P,TRAPPIST-1e,18.0,False,18.0,2.0,1769.0,1.0,2.0,Tsirana Guldord,True
+3719_02,Mars,True,F/704/S,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Jabbumsho Keisams,True
+3747_04,Europa,True,B/118/P,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,Nahosha Ulveed,True
+3749_01,Europa,True,B/119/P,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Enera Chalmom,True
+3757_01,Earth,True,G/617/S,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Chachitochu Hovchams,True
+3768_01,Earth,False,F/710/S,TRAPPIST-1e,20.0,False,0.0,0.0,717.0,0.0,0.0,Nosiche Nkowey,True
+3769_01,Mars,False,E/251/S,TRAPPIST-1e,47.0,False,1037.0,0.0,258.0,4.0,0.0,Chonoto Vumdull,False
+3777_01,Europa,True,B/147/S,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,Osome Votchams,True
+3803_01,Mars,False,F/782/P,TRAPPIST-1e,33.0,False,25.0,0.0,1376.0,604.0,0.0,Oshado Skhmeer,False
+3818_01,Earth,False,???,TRAPPIST-1e,32.0,False,0.0,600.0,80.0,0.0,18.0,Harotosicho Salwurstuam,False
+3824_01,Earth,False,G/625/S,PSO J318.5-22,49.0,False,0.0,51.0,101.0,50.0,112.0,Chotsi Ewurutt,True
+3841_01,Mars,False,F/793/P,TRAPPIST-1e,31.0,False,1049.0,31.0,227.0,2.0,0.0,Ashaniro Haflur,False
+3853_01,Earth,False,F/725/S,PSO J318.5-22,18.0,False,16.0,6.0,735.0,0.0,0.0,Shanodo Romd,True
+3854_01,Earth,True,G/632/P,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Chonokha Geff,True
+3868_06,Earth,True,G/630/S,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,Echochiro Dorlamgtem,True
+3868_07,Earth,True,G/630/S,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Fichoyono Resumpurgur,False
+3874_01,Earth,False,G/631/S,TRAPPIST-1e,25.5,False,86.0,218.0,0.0,0.0,479.0,Echato Vuxlur,False
+3888_01,Earth,False,G/633/S,???,0.0,False,0.0,0.0,0.0,0.0,0.0,Chohoyo Chumluy,True
+3898_01,Earth,True,G/636/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Tochoga Nkkoll,True
+3903_06,Earth,True,G/636/P,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Eme Tithall,True
+3911_03,Earth,True,G/640/S,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,Haresu Kewu,True
+3927_01,Europa,False,C/142/S,55 Cancri e,38.0,False,55.0,1258.0,0.0,650.0,10786.0,Apicho Jellumpukch,False
+3939_01,Earth,False,E/237/P,TRAPPIST-1e,37.0,False,772.0,0.0,840.0,1.0,5.0,Tochashato Saunem,False
+3940_01,Mars,False,D/132/P,TRAPPIST-1e,60.0,True,2739.0,0.0,0.0,0.0,0.0,Honodo Hiffnom,False
+3945_01,Earth,True,G/644/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Choano Heffnom,False
+3954_01,Earth,True,G/647/S,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Ashahoro Sauchurt,False
+3955_01,Earth,True,G/648/S,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Aajano Vasu,True
+3959_02,Earth,False,F/817/P,TRAPPIST-1e,28.0,False,653.0,0.0,0.0,0.0,20.0,Tomocho Telchaum,False
+3962_01,Earth,False,G/647/P,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,Jeshiye Jurry,True
+3966_02,Earth,False,G/649/P,TRAPPIST-1e,27.0,False,0.0,0.0,1020.0,0.0,0.0,Honogikha Temg,True
+3968_01,Earth,True,G/650/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Nirosu Luhrur,False
+3987_01,Earth,False,F/822/P,TRAPPIST-1e,17.0,False,103.0,2183.0,0.0,16.0,0.0,Nochame Boamtur,True
+3991_01,Earth,False,F/823/P,TRAPPIST-1e,44.0,False,1258.0,3.0,0.0,1.0,0.0,Echipe Prihm,False
+4000_02,Earth,False,F/757/S,TRAPPIST-1e,25.0,False,20.0,0.0,424.0,0.0,359.0,Tochi Puatul,False
+4001_06,Earth,False,G/659/S,55 Cancri e,5.0,False,0.0,0.0,0.0,0.0,0.0,Iregotoyo Oshluy,True
+4030_03,Earth,False,G/661/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Ryisocha Strenom,False
+4031_02,Europa,True,C/131/P,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Ashamenera Volbelu,True
+4038_01,Earth,True,G/664/S,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,Suchamu Niullur,False
+4050_01,Europa,False,A/35/P,55 Cancri e,36.0,False,0.0,1302.0,0.0,2067.0,10173.0,Shano Strenom,False
+4112_01,Earth,True,G/678/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Teshatolo Nkmolly,True
+4134_01,???,True,???,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Inucha Deeluy,True
+4147_02,Europa,True,C/149/S,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Ehnou Gamty,True
+4175_01,Earth,False,F/858/P,55 Cancri e,37.0,False,0.0,89.0,15.0,20.0,592.0,Sharohoto Chromz,False
+4176_02,Mars,True,F/859/P,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Mogosovo Geld,True
+4176_05,Mars,False,D/142/P,TRAPPIST-1e,46.0,False,247.0,0.0,418.0,480.0,36.0,Yeshado Solzvudul,False
+4184_01,Earth,False,F/860/P,55 Cancri e,19.0,False,558.0,0.0,353.0,0.0,8.0,Odokha Saunem,False
+4203_01,Mars,False,D/143/P,TRAPPIST-1e,40.0,False,0.0,0.0,1.0,293.0,667.0,Tomazocha Sbommogul,False
+4204_01,Earth,True,G/691/P,PSO J318.5-22,23.0,False,0.0,0.0,0.0,0.0,0.0,Dugikha Pirnom,True
+4215_01,Mars,False,D/145/P,TRAPPIST-1e,34.0,True,992.0,0.0,14.0,0.0,0.0,Echomoyo Luhnomm,False
+4216_01,Europa,True,B/134/P,TRAPPIST-1e,65.0,False,0.0,0.0,0.0,0.0,0.0,Sochochaporo Kermash,True
+4219_03,Mars,False,F/868/P,TRAPPIST-1e,32.0,False,1331.0,416.0,0.0,665.0,64.0,Notsiecho Fopul,False
+4223_02,Mars,False,E/275/S,55 Cancri e,24.0,False,469.0,0.0,0.0,196.0,0.0,Hayono Jerdem,True
+4249_03,Europa,False,B/166/S,55 Cancri e,20.0,False,354.0,1546.0,323.0,284.0,315.0,Chonamogo Uxem,True
+4258_03,Europa,False,A/37/P,TRAPPIST-1e,39.0,False,9.0,1525.0,0.0,0.0,146.0,Tekhachiro Plukhur,False
+4272_01,Earth,False,F/799/S,TRAPPIST-1e,55.0,False,0.0,252.0,1.0,0.0,553.0,Meniro Tithall,True
+4289_01,Mars,True,F/890/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Chovosovo Juffursem,True
+4305_01,Earth,False,F/893/P,TRAPPIST-1e,56.0,False,0.0,779.0,12.0,3.0,35.0,Chisotsi Lofrumtz,False
+4311_01,Earth,False,F/807/S,TRAPPIST-1e,22.0,False,563.0,521.0,364.0,0.0,0.0,Etsi Jomz,False
+4317_01,Mars,False,D/139/S,TRAPPIST-1e,24.0,False,439.0,0.0,2140.0,0.0,0.0,Sugovo Eleighlam,True
+4327_01,Earth,False,F/811/S,TRAPPIST-1e,20.0,False,0.0,187.0,712.0,0.0,0.0,Tochosha Pottum,True
+4333_01,Europa,False,B/141/P,55 Cancri e,28.0,False,0.0,3345.0,0.0,2143.0,27.0,Shamezocha Skhradur,False
+4337_01,Mars,False,F/813/S,TRAPPIST-1e,49.0,False,22.0,0.0,1129.0,0.0,77.0,Topikha Frozur,True
+4349_01,Mars,False,E/275/P,TRAPPIST-1e,55.0,False,802.0,0.0,155.0,4.0,337.0,Uchagikha Voldwegul,False
+4350_01,Earth,True,G/709/S,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,Oecha Svoam,True
+4359_01,Europa,False,C/137/P,TRAPPIST-1e,28.0,False,3.0,2127.0,0.0,696.0,10.0,Totsiche Sannem,False
+4370_01,Earth,False,???,TRAPPIST-1e,21.0,False,3.0,1.0,0.0,1494.0,110.0,Teme Pluaur,False
+4376_01,Earth,False,E/284/S,PSO J318.5-22,43.0,False,0.0,168.0,3.0,0.0,452.0,Pomde Osen,True
+4400_02,Mars,False,F/830/S,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,Tunche Addem,True
+4400_03,Mars,True,F/830/S,???,5.0,False,0.0,0.0,0.0,0.0,0.0,Tsiteni Ollchams,True
+4404_01,Earth,False,G/726/P,TRAPPIST-1e,38.0,False,3.5,2.0,404.0,121.0,0.0,Tushagohoro Feth,False
+4407_01,Earth,True,G/719/S,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Iuhoro Peem,True
+4437_01,Earth,True,G/725/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Chenotsizocha Noighom,True
+4446_02,Europa,False,B/175/S,TRAPPIST-1e,37.0,False,0.0,3603.0,33.0,7113.0,1.0,Sigayono Guaszlur,False
+4446_03,Europa,True,B/175/S,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Nitsi Fornur,True
+4457_01,Earth,False,F/917/P,TRAPPIST-1e,24.0,False,698.0,0.0,51.0,2.0,4.0,Shareyono Ostem,True
+4474_02,Earth,True,G/730/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Chonaecho Kreft,True
+4475_01,Europa,False,A/55/S,TRAPPIST-1e,50.0,True,13.0,239.0,0.0,161.0,2355.0,Shedo Nihlfuld,False
+4477_01,Earth,False,G/731/S,55 Cancri e,31.0,False,23.0,0.0,0.0,100.0,17.0,Shanem Lumz,False
+4482_02,Earth,False,G/732/S,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Isona Oldur,True
+4498_04,Earth,False,G/734/S,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,Hoyoshado Noirur,False
+4508_02,Mars,False,E/283/P,TRAPPIST-1e,21.0,False,572.0,584.0,128.0,14.0,0.0,Chonaecho Bfummamg,False
+4509_03,Mars,False,D/144/S,TRAPPIST-1e,13.0,False,27.0,0.0,3246.0,0.0,0.0,Sosocha Bakchtholl,True
+4511_02,Europa,True,B/178/S,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,Nirosocha Warge,True
+4529_01,Earth,False,G/738/S,55 Cancri e,43.0,False,26.0,132.0,3.0,117.0,555.0,Jeshiyo Olpurt,False
+4557_01,Earth,False,E/286/P,TRAPPIST-1e,17.0,False,0.0,656.0,295.0,0.0,35.0,Fikhado Gurpur,False
+4563_01,Europa,True,C/169/S,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,Yonogikha Devlur,True
+4575_01,Earth,False,F/941/P,TRAPPIST-1e,21.0,False,3.0,65.0,253.0,475.0,0.0,Fichiecho Nihlfuld,False
+4602_01,Earth,False,F/945/P,55 Cancri e,36.0,False,0.0,0.0,0.0,725.0,2.0,Harosa Lofrumz,False
+4603_01,Europa,False,C/171/S,55 Cancri e,26.0,False,0.0,3593.0,47.0,19.0,229.0,Seno Stofferd,True
+4624_01,Mars,False,F/868/S,TRAPPIST-1e,58.0,False,1246.0,0.0,66.0,36.0,0.0,Asu Paurnomm,False
+4625_06,???,False,B/183/S,TRAPPIST-1e,27.0,False,0.0,453.0,137.0,1331.0,1660.0,Motsinu Voltz,False
+4630_01,Earth,False,F/870/S,PSO J318.5-22,28.0,False,0.0,18.0,0.0,0.0,674.0,Yonomeikha Ollovoy,True
+4637_01,Mars,False,???,TRAPPIST-1e,24.0,False,672.0,0.0,501.0,0.0,0.0,Chisemecha Bfummamg,False
+4651_01,Europa,False,C/179/S,TRAPPIST-1e,33.0,False,0.0,7039.0,0.0,902.0,405.0,Odokha Olseb,True
+4655_02,???,True,B/154/P,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,Teshashoa Vhatuferd,True
+4656_02,Earth,False,G/763/S,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Chinogou Lomdoi,False
+4658_02,Europa,False,D/147/S,TRAPPIST-1e,38.0,False,0.0,93.0,0.0,0.0,7303.0,Heraikha Skhmuadur,False
+4663_03,Earth,True,G/765/S,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,Hotochuyono Nimdy,True
+4668_01,Europa,True,C/180/S,55 Cancri e,64.0,False,0.0,0.0,0.0,0.0,0.0,Chenem Ultas,True
+4680_01,Mars,False,D/155/P,TRAPPIST-1e,17.0,False,0.0,0.0,38.0,0.0,2.0,Fijaecho Elawur,False
+4684_01,Mars,False,F/878/S,TRAPPIST-1e,50.0,False,225.0,0.0,796.0,107.0,0.0,Neramogo Draskell,True
+4695_01,Mars,False,F/882/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Neteyesha Lamdum,True
+4695_02,Mars,False,F/882/S,TRAPPIST-1e,21.0,False,3148.0,0.0,1.0,0.0,0.0,Echiro Lomg,False
+4725_01,Earth,False,G/767/P,55 Cancri e,27.0,False,866.0,0.0,0.0,0.0,23.0,Yonhoto Skhikhurt,False
+4726_02,Europa,False,C/187/S,55 Cancri e,26.0,False,0.0,3452.0,0.0,4.0,1960.0,Tochuvocha Vamvord,True
+4728_02,Mars,True,F/889/S,???,49.0,False,353.0,0.0,0.0,0.0,0.0,Chesham Ewurutt,True
+4744_02,Europa,True,C/152/P,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,Harotosicho Eldlomd,True
+4746_01,Earth,False,G/775/S,TRAPPIST-1e,43.5,False,282.0,8.0,337.0,0.0,0.0,Soacha Ukchstuam,False
+4759_01,Earth,False,F/897/S,TRAPPIST-1e,25.0,False,0.0,3.0,23.0,693.0,0.0,Chojayono Vuass,False
+4770_02,Earth,True,F/900/S,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,Anoazina Helnom,True
+4782_05,Europa,False,C/189/S,55 Cancri e,48.0,False,0.0,342.0,929.0,10887.0,0.0,Epikha Chastlur,False
+4793_01,Europa,False,E/310/S,55 Cancri e,36.0,False,13.0,1480.0,1.0,1439.0,1955.0,Avohosha Nortam,False
+4793_02,Europa,False,E/310/S,TRAPPIST-1e,20.0,False,0.0,1131.0,3783.0,161.0,0.0,Sigovoro Choran,True
+4795_01,Earth,False,F/905/S,TRAPPIST-1e,50.0,False,138.0,706.0,0.0,18.0,40.0,Mesocho Onuspiry,True
+4801_01,Earth,True,G/773/P,TRAPPIST-1e,10.0,False,514.0,0.0,0.0,0.0,0.0,Votomopu Hurrnomm,False
+4804_03,Earth,True,G/785/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.6666666666666667,0.0,0.0,Nerato Updem,True
+4815_01,Earth,False,F/907/S,55 Cancri e,21.0,False,564.0,9.0,0.0,0.0,30.0,Fimocha Unnams,True
+4830_01,Earth,False,F/983/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,19.0,785.0,Sosochovo Elawur,False
+4836_02,Mars,False,F/911/S,TRAPPIST-1e,29.0,True,20.0,278.66666666666663,1902.0,0.0,3.0,Nosime Gluv,True
+4870_01,Earth,False,G/785/P,55 Cancri e,14.0,False,8.0,0.0,0.0,0.0,176.0,Nayoga Herm,False
+4878_01,Mars,False,F/929/S,TRAPPIST-1e,36.0,False,108.0,0.0,941.0,861.0,0.0,Oravoro Chirznomm,False
+4882_01,Europa,False,B/193/S,TRAPPIST-1e,32.5,False,9.0,2031.0,0.0,20.0,1837.0,Omde Bohlchu,False
+4900_01,Earth,False,F/994/P,PSO J318.5-22,35.0,False,0.0,0.0,2.0,672.0,10.0,Tochopu Resumpurgur,False
+4901_02,Earth,False,E/305/P,TRAPPIST-1e,34.0,False,695.0,25.0,276.0,0.0,0.0,Cheazina Hurtz,False
+4911_01,Earth,False,F/998/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,702.0,0.0,Roachotija Niullur,False
+4932_01,Mars,False,D/161/P,TRAPPIST-1e,22.0,False,223.0,0.0,630.0,14.0,0.0,Sogo Pirdum,True
+4933_01,Mars,False,F/938/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Votomopu Bettur,True
+4937_01,Earth,False,G/803/S,TRAPPIST-1e,34.0,False,1242.0,444.0,0.0,22.0,0.0,Mesu Odumoiur,False
+4941_01,Mars,False,F/1008/P,TRAPPIST-1e,35.0,False,988.0,0.0,830.0,2.0,0.0,Tsijanete Norqiuramch,False
+4944_01,Europa,False,A/60/S,55 Cancri e,39.0,False,269.0,2171.0,2.0,2.0,0.0,Hogavoro Imvam,True
+4944_02,Europa,False,A/60/S,55 Cancri e,58.0,False,0.0,3448.0,0.0,737.0,2193.0,Echato Blutkhur,False
+4958_01,Earth,False,G/810/S,TRAPPIST-1e,32.0,False,0.0,235.0,0.0,474.0,0.0,Emeu Hoss,False
+4978_01,Earth,False,F/1015/P,TRAPPIST-1e,20.0,False,0.0,358.0,287.0,0.0,51.5,Esham Peur,False
+4980_02,Earth,False,G/805/P,???,12.0,False,0.0,0.0,0.0,0.0,0.0,Namonete Dumzul,False
+4991_01,Earth,False,G/806/P,TRAPPIST-1e,79.0,False,610.0,17.0,0.0,200.0,5.0,Hoteyono Chamag,False
+5000_01,Earth,True,G/808/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Cheniro Huod,True
+5014_01,???,False,D/162/P,TRAPPIST-1e,26.0,False,1331.0,0.0,973.0,484.0,0.0,Ikhayono Dehnom,False
+5020_01,Earth,False,F/956/S,PSO J318.5-22,18.0,False,648.0,19.0,0.0,0.0,4.0,Shachich Pirr,True
+5039_01,Mars,False,F/958/S,TRAPPIST-1e,16.0,False,1285.0,0.5,14.0,1386.0,0.0,Epoto Loiratz,False
+5044_02,Earth,True,G/826/S,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,Finahache Pigg,True
+5052_02,Mars,False,F/961/S,55 Cancri e,23.0,False,228.0,1451.0,912.0,3.0,0.0,Nochagikha Truv,True
+5090_03,???,False,G/821/P,PSO J318.5-22,12.0,False,0.0,0.0,0.0,0.0,0.0,Tochudo Blott,True
+5091_01,Earth,False,F/973/S,55 Cancri e,18.0,False,1471.0,59.0,95.0,1109.0,330.0,Anoazina Ornprastur,False
+5095_01,Mars,True,F/1038/P,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,Nanosiyo Hebchamsem,True
+5111_01,Europa,False,B/171/P,TRAPPIST-1e,25.0,False,0.0,3.0,0.0,763.0,3541.0,Ishapo Dattnor,False
+5115_02,Europa,True,C/199/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Chumnetsi Rhys,True
+5122_01,Earth,False,F/981/S,TRAPPIST-1e,24.0,False,0.0,464.0,321.0,0.0,90.0,Nayohoro Thenosem,True
+5124_01,Earth,False,F/1044/P,???,41.0,False,256.0,109.0,0.0,340.0,0.0,Osohoro Pruasokhur,False
+5133_01,Earth,False,G/829/P,55 Cancri e,36.0,False,0.0,0.0,846.0,0.0,0.0,Torina Bammekch,True
+5156_02,Europa,False,B/200/S,TRAPPIST-1e,29.0,False,0.0,4198.0,227.0,1.0,1415.0,Udo Muvpiry,True
+5157_01,Earth,False,G/844/S,TRAPPIST-1e,40.0,False,814.0,12.0,2.0,52.666666666666664,79.0,Sochonete Makhels,True
+5161_01,Mars,True,D/156/S,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,Ausodo Gromgur,True
+5163_02,Earth,False,E/322/P,TRAPPIST-1e,40.0,False,151.0,0.0,713.0,0.0,0.0,Gumja Aremnemgur,True
+5170_01,Earth,False,F/1056/P,55 Cancri e,23.0,False,0.0,306.0,392.0,9.0,13.0,Tushagohoro Greaur,False
+5174_02,Europa,False,C/159/P,TRAPPIST-1e,29.0,False,6.0,5.0,0.0,6235.0,434.0,Mega Boturmestur,False
+5180_01,Earth,True,G/835/P,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,0.0,Mesocho Porlev,True
+5199_01,Europa,False,D/158/S,TRAPPIST-1e,35.0,False,0.0,725.0,3415.0,27.0,1.0,Fichimocho Pruatporth,False
+5207_02,Earth,False,F/998/S,TRAPPIST-1e,31.0,False,1364.0,0.0,0.0,0.0,21.0,Tochoropu Svatzur,False
+5217_02,Europa,True,B/177/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Chumtore Addem,True
+5229_01,Earth,False,E/335/S,???,16.0,False,0.0,0.0,19.0,971.0,0.0,Yonogikha Skhlannu,False
+5243_01,Earth,False,F/1005/S,TRAPPIST-1e,24.0,False,1231.0,0.0,0.0,1.0,3.0,Apicho Emuall,True
+5252_01,Earth,False,F/1008/S,TRAPPIST-1e,35.0,False,202.0,1309.0,60.0,0.0,0.0,Tomino Thokchuroy,True
+5258_01,Europa,False,C/204/S,TRAPPIST-1e,70.0,False,241.0,1065.0,0.0,2290.0,2.0,Hetotu Lleyd,True
+5260_01,Earth,True,G/849/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Iuniro Rakhus,True
+5290_01,Earth,False,F/1083/P,TRAPPIST-1e,31.0,False,1177.0,2.0,0.0,2.0,1.0,Tochua Chamag,False
+5291_01,Earth,False,G/854/P,55 Cancri e,27.0,False,3905.0,7.0,0.0,4.0,53.0,Amegikha Skharnur,False
+5303_05,Earth,False,G/857/P,55 Cancri e,7.0,False,0.0,0.0,0.0,0.0,0.0,Hyepomsha Peur,False
+5304_01,Mars,False,F/1019/S,TRAPPIST-1e,18.0,False,1744.0,0.0,8.0,8.0,0.0,Sogo Vuhimt,False
+5323_01,Mars,True,F/1091/P,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,32.0,0.0,Heragenu Fuothurstemu,True
+5337_01,Mars,False,F/1024/S,TRAPPIST-1e,40.0,False,286.0,0.0,2299.0,12.0,5.0,Nayesha Bunpurtem,True
+5354_02,Mars,False,E/339/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Sosocha Skhafur,False
+5356_01,Earth,False,E/340/S,TRAPPIST-1e,29.0,False,0.0,32.0,0.0,4517.0,0.0,Choshavoga Sergu,False
+5367_01,Europa,True,C/209/S,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,Sigosu Okchory,True
+5385_01,Mars,False,D/170/P,TRAPPIST-1e,31.0,False,2048.0,0.0,1040.0,136.0,0.0,Avohoro Sokhs,False
+5406_01,???,False,F/1035/S,PSO J318.5-22,22.0,False,2.0,46.0,0.0,483.0,67.0,Tsimedo Muinom,False
+5422_01,Europa,True,D/164/S,55 Cancri e,26.0,False,0.0,0.0,0.0,1684.5,0.0,Homora Kevom,True
+5427_02,Mars,False,F/1118/P,TRAPPIST-1e,18.0,False,3458.0,0.0,216.0,0.0,0.0,Gete Imrih,False
+5427_03,Mars,False,F/1118/P,TRAPPIST-1e,25.0,False,948.0,0.0,1.0,170.0,0.0,Shapoto Odlur,False
+5440_01,Earth,True,G/875/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Tochuvocha Daorky,True
+5483_01,Earth,False,F/1135/P,PSO J318.5-22,17.0,False,2.0,0.0,0.0,0.0,681.0,Chonokha Chebb,False
+5494_01,Earth,False,F/1053/S,TRAPPIST-1e,22.0,False,658.0,0.0,0.0,161.0,3.0,Hashado Duuluy,True
+5510_01,Earth,True,G/887/S,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,Echato Totu,True
+5537_01,Mars,False,F/1063/S,TRAPPIST-1e,50.0,False,690.0,0.0,30.0,762.0,428.0,Sego Vuhmur,False
+5569_01,Earth,True,G/891/P,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Sochiroa Vart,False
+5571_01,Earth,False,G/900/S,55 Cancri e,26.0,False,0.0,406.0,0.0,0.0,503.0,Oravo Jelly,True
+5575_01,Mars,False,F/1156/P,TRAPPIST-1e,44.0,False,583.0,0.0,222.0,0.0,1560.0,Eyono Luatzchu,False
+5580_01,Earth,True,G/902/S,PSO J318.5-22,36.0,False,0.0,0.0,0.0,0.0,0.0,Orocha Geedkhald,True
+5581_01,Europa,True,B/212/S,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,Chovoniro Muash,True
+5586_01,Earth,False,G/895/P,PSO J318.5-22,37.0,False,0.0,0.0,6.0,746.0,1.0,Todusha Chohlur,False
+5598_01,Earth,False,G/903/S,???,19.0,False,0.0,0.0,500.0,2.0,208.0,Sochiporo Pathull,True
+5602_01,Europa,True,B/190/P,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Chade Stuodnom,True
+5606_02,Europa,False,B/213/S,TRAPPIST-1e,31.0,False,0.0,1219.0,7.0,104.0,1082.0,Shaga Vullamgtem,True
+5616_01,Earth,False,F/1073/S,PSO J318.5-22,25.0,False,458.0,240.0,0.0,239.0,0.0,Yonomeiu Blomt,True
+5642_01,Europa,True,B/216/S,???,35.0,False,0.0,0.0,0.0,0.0,0.0,Ezi Hovluy,True
+5643_02,Mars,False,F/1077/S,55 Cancri e,18.0,False,2803.0,0.0,17.0,0.0,0.0,Nitsi Nortz,False
+5653_01,Earth,True,G/903/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Fikhado Luatzchu,False
+5677_01,Mars,False,E/357/P,TRAPPIST-1e,22.0,False,1035.0,0.0,264.0,0.0,0.0,Chomogocha Gurag,False
+5680_01,Earth,False,E/359/P,TRAPPIST-1e,18.0,False,0.0,0.0,1609.0,0.0,0.0,Shano Buorsem,True
+5681_01,Earth,True,G/921/S,TRAPPIST-1e,66.0,False,0.0,0.0,0.0,0.0,0.0,Techidenu Duugom,True
+5687_01,Earth,False,F/1179/P,TRAPPIST-1e,15.0,False,348.0,1627.0,0.0,0.0,0.0,Yonhoto Skhiltz,False
+5688_01,Earth,False,F/1084/S,TRAPPIST-1e,20.0,False,12.0,177.0,1110.0,0.0,0.0,Sochayiroa Lebus,True
+5698_02,Earth,False,G/923/S,TRAPPIST-1e,26.0,False,178.0,0.0,3.0,0.0,704.0,Ichaye Tenlamsem,True
+5709_01,Europa,False,C/215/S,TRAPPIST-1e,33.0,False,0.0,4372.0,0.0,4103.0,0.0,Ochanete Fraul,True
+5713_01,Earth,False,G/915/P,TRAPPIST-1e,42.0,False,0.0,29.0,317.0,434.0,45.0,Chemasha Bokchur,True
+5714_02,Earth,False,G/916/P,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,Shagu Nkkernakch,True
+5714_05,Earth,True,G/916/P,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Chonaecho Fruaght,True
+5728_01,Earth,False,F/1185/P,TRAPPIST-1e,24.0,False,0.0,217.0,0.0,77.0,510.0,Khachonotsi Irslur,False
+5733_01,Earth,False,G/922/P,55 Cancri e,34.0,False,0.0,1745.0,6.0,5.0,37.0,Nirosocha Schully,True
+5756_03,Earth,False,F/1194/P,PSO J318.5-22,19.0,False,5.0,0.0,0.0,716.0,0.0,Yomogovo Skhihnokhur,False
+5756_04,Earth,False,F/1194/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Horigikha Ruitur,False
+5764_01,Earth,False,F/1100/S,TRAPPIST-1e,25.0,False,0.0,0.0,1037.0,8.0,1.0,Notsinoro Lomgradgu,True
+5768_01,Europa,True,B/193/P,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,Chirefija Bovsem,True
+5768_02,Europa,True,B/193/P,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,Chachchovo Luochu,True
+5780_03,Europa,True,B/195/P,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Iuhoro Tall,True
+5812_01,Earth,True,G/943/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Tenera Horraus,True
+5813_01,Earth,True,G/936/P,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Enera Ittradgu,True
+5814_03,Mars,True,D/176/S,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Hagoshachima Jorrott,True
+5814_06,Mars,False,D/176/S,TRAPPIST-1e,15.0,False,2309.0,0.0,1142.0,1.0,10.0,Pomde Purmot,False
+5842_01,Europa,True,C/220/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Fimocha Sterr,True
+5858_01,Earth,False,G/948/S,55 Cancri e,22.0,False,483.0,0.0,0.0,304.0,21.0,Ochato Bhulom,True
+5885_07,Earth,False,G/954/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,1818.0,Ajakha Stuffum,False
+5888_02,Mars,False,F/1218/P,TRAPPIST-1e,35.0,False,750.0,0.0,0.0,0.0,1065.0,Soateh Bfoff,False
+5897_01,Europa,False,C/221/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Yositochu Vhatverth,True
+5915_01,Earth,False,E/382/S,TRAPPIST-1e,32.0,False,0.0,0.0,39.0,0.0,749.0,Chemeu Drusdmur,False
+5945_01,Earth,True,G/970/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Asucha Olloduu,True
+5957_01,Europa,True,B/203/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Mochosovo Yeimg,True
+5969_02,Earth,False,F/1137/S,55 Cancri e,37.0,False,0.0,698.0,0.0,0.0,6.0,Horodo Fruimd,False
+5981_01,Mars,False,F/1140/S,TRAPPIST-1e,27.0,False,441.0,0.0,397.0,471.0,0.0,Mamenayo Skhrodur,False
+5984_01,Mars,False,D/187/P,PSO J318.5-22,38.0,False,1208.0,0.0,13.0,38.0,0.0,Esham Oard,True
+5992_01,Earth,True,G/975/S,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,0.0,Jeshiye Stechus,True
+5993_01,Mars,True,E/394/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Asezocha Koldvull,True
+6015_01,Europa,True,B/231/S,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Chumnetsi Porem,True
+6020_04,Earth,True,G/974/P,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Semedo Hoosu,False
+6029_01,Earth,False,E/396/S,TRAPPIST-1e,25.0,False,0.0,30.0,20.0,0.0,941.0,Chojatoma Hinnul,False
+6031_01,???,False,F/1146/S,???,52.0,False,0.0,645.0,0.0,0.0,395.0,Arayu Triunom,True
+6036_01,Europa,False,C/225/S,TRAPPIST-1e,44.0,False,0.0,1289.0,1224.0,514.0,1674.0,Akhasodo Borrott,True
+6036_03,Europa,False,C/225/S,TRAPPIST-1e,27.0,False,0.0,1857.0,0.0,778.0,587.0,Emasha Konbpull,True
+6038_01,Mars,False,F/1147/S,TRAPPIST-1e,22.0,False,2413.0,0.0,53.0,1.0,0.0,Neduga Vust,False
+6040_01,Earth,False,G/984/S,TRAPPIST-1e,16.0,False,805.0,4.0,0.0,0.0,0.0,Orochado Chalpuu,True
+6099_01,Earth,True,G/992/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Opu Tevurs,True
+6102_01,Earth,False,F/1165/S,PSO J318.5-22,26.0,False,104.0,0.0,0.0,280.0,216.0,Chedono Skhradur,False
+6106_01,Europa,True,C/228/S,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,Tsitoyo Tretnom,True
+6110_01,Earth,False,E/389/P,55 Cancri e,57.0,False,0.0,0.0,0.0,0.0,642.0,Nouhoto Klesu,True
+6127_01,Europa,False,E/404/S,TRAPPIST-1e,27.0,False,551.0,1436.0,0.0,462.0,309.0,Emeu Hoislur,False
+6133_01,Earth,True,G/993/S,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,Yeshatena Hormuss,True
+6137_04,Earth,True,G/994/S,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Chisotsi Nkamtyru,True
+6139_05,Europa,True,C/230/S,55 Cancri e,51.0,False,0.0,0.0,0.0,0.0,0.0,Eakha Chrastumsum,True
+6141_02,Earth,False,???,???,21.0,False,28.0,0.0,0.0,662.0,0.0,Tochoshato Pruatporth,False
+6174_02,Earth,True,G/999/P,PSO J318.5-22,4.0,False,0.0,0.0,0.0,0.0,0.0,Chachigovo Fashur,True
+6191_02,Europa,True,A/59/P,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,Fivo Ukchursluy,True
+6192_01,Earth,False,F/1183/S,PSO J318.5-22,23.0,False,0.0,126.0,403.0,0.0,21.0,Nerashato Borrett,True
+6208_01,Mars,True,F/1279/P,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Fichido Ruuwus,True
+6262_02,???,False,D/195/P,TRAPPIST-1e,18.0,False,102.0,3.0,186.0,2287.0,0.0,Orochovo Herm,False
+6266_01,Earth,False,F/1296/P,TRAPPIST-1e,24.0,False,0.0,2680.0,0.0,2.0,45.0,Mochomu Meplu,True
+6268_01,Mars,True,F/1202/S,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Hagoshachima Amgurnomm,True
+6270_01,Earth,False,F/1297/P,TRAPPIST-1e,34.0,False,124.0,0.0,0.0,679.0,0.0,Tochosiga Wauth,False
+6274_01,Mars,True,F/1203/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Echino Vorm,True
+6281_01,Earth,False,G/1015/S,TRAPPIST-1e,38.0,False,20.0,0.0,751.0,0.0,2.0,Nayochu Totlev,True
+6318_01,Earth,True,G/1018/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Asepu Hepsem,True
+6328_01,Earth,True,G/1020/P,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,Somdo Raur,False
+6328_02,Earth,True,G/1020/P,PSO J318.5-22,2.0,False,0.0,0.0,0.0,0.0,0.0,Sesucha Hurpurt,False
+6334_06,Earth,False,F/1210/S,TRAPPIST-1e,55.0,False,0.0,242.0,0.0,479.0,3.0,Noriyono Hubbumhuanur,False
+6360_02,Europa,True,A/75/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,Megisha Shoighmussy,True
+6372_01,Europa,False,B/216/P,TRAPPIST-1e,40.0,False,773.0,3729.0,43.0,10.0,0.0,Yihoro Pikchluy,True
+6394_04,Earth,False,G/1037/S,55 Cancri e,23.0,False,0.0,0.0,478.0,4560.0,0.0,Shaneharo Pruatporth,False
+6407_01,Earth,True,G/1033/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Fisu Challakch,True
+6418_01,Earth,False,F/1329/P,TRAPPIST-1e,27.0,False,93.0,0.0,0.0,0.0,772.0,Oahoro Poinpokh,False
+6419_01,Earth,False,E/428/S,TRAPPIST-1e,31.0,False,46.5,0.0,873.0,0.0,0.0,Sodo Jummsem,True
+6452_01,Earth,False,F/1336/P,TRAPPIST-1e,24.0,False,0.0,854.0,11.0,0.0,0.0,Tochoecho Vaddevsem,True
+6488_01,Europa,False,A/79/S,TRAPPIST-1e,50.0,False,0.0,1663.0,336.0,1855.0,4.0,Heragesha Vurmur,False
+6511_01,Earth,False,F/1348/P,TRAPPIST-1e,22.0,False,151.0,6.0,26.0,0.0,533.0,Chovoa Dehnom,False
+6525_01,Earth,False,F/1248/S,TRAPPIST-1e,21.0,False,0.0,20.0,1540.0,80.0,512.0,Shanozocha Stuffum,False
+6547_01,Mars,False,F/1358/P,55 Cancri e,21.0,False,861.0,0.0,310.0,0.0,0.0,Noyizina Soipur,False
+6557_01,Europa,False,E/417/P,55 Cancri e,38.0,False,0.0,201.0,0.0,1308.0,4085.0,Tochutene Stinbf,False
+6558_01,Earth,False,F/1363/P,TRAPPIST-1e,31.0,False,3.0,0.0,0.0,747.0,43.0,Chovogikha Nalvord,True
+6570_01,Earth,False,G/1068/S,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,908.0,0.0,Cheyono Womatemdur,False
+6585_02,Earth,False,F/1260/S,TRAPPIST-1e,18.0,False,289.0,1809.0,3.0,2.0,2.0,Chiregomu Kenbtem,True
+6604_01,Europa,True,C/205/P,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,Teme Porkloy,True
+6611_01,Earth,False,E/421/P,55 Cancri e,41.0,False,635.0,0.0,7.0,0.0,0.0,Chumnetsi Soxtem,True
+6614_01,Mars,True,F/1268/S,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Tunche Odlur,True
+6624_01,Earth,False,G/1071/P,TRAPPIST-1e,44.0,False,1175.0,0.0,13.0,642.0,498.0,Neragikha Wegul,False
+6633_01,Europa,False,B/255/S,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Mashae Pirkh,True
+6643_01,Earth,False,F/1272/S,TRAPPIST-1e,20.0,False,0.0,6.0,24.0,0.0,672.0,Yecheyono Chohlur,False
+6665_01,Europa,True,B/222/P,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Opu Bogom,True
+6665_03,Europa,False,B/222/P,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,Chascha Tommur,True
+6669_01,Earth,False,E/423/P,55 Cancri e,28.0,False,32.0,0.0,304.0,291.0,2.0,Chego Puoinemt,True
+6671_01,Mars,True,F/1279/S,TRAPPIST-1e,35.0,False,0.0,0.0,5.0,0.0,0.0,Khesha Boamu,True
+6674_03,Europa,False,E/426/P,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,Hoyoto Nerluy,True
+6699_01,Mars,False,E/429/P,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Atogocha Loiratz,False
+6706_02,Europa,True,B/224/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Jeshiye Ollseb,True
+6713_01,Earth,False,F/1395/P,55 Cancri e,24.0,False,700.0,0.0,0.0,0.0,0.0,Neragikha Haflur,False
+6734_04,Europa,True,C/249/S,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Movopu Owumiu,True
+6744_02,Mars,False,F/1399/P,TRAPPIST-1e,38.0,False,1717.0,16.0,39.0,0.0,48.0,Fijachogu Churvor,False
+6744_03,Mars,False,D/212/P,55 Cancri e,16.0,False,1337.0,0.0,2614.0,0.0,0.0,Ichaye Stipur,False
+6748_03,Mars,False,F/1289/S,TRAPPIST-1e,25.0,False,1610.0,29.0,6.0,0.0,0.0,Tochoropu Sanem,False
+6751_01,Mars,True,F/1290/S,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Tsiniro Chmex,True
+6758_01,Earth,False,F/1403/P,55 Cancri e,25.0,False,76.0,600.0,0.0,0.0,25.0,Tennaa Well,False
+6780_02,Europa,False,C/251/S,TRAPPIST-1e,39.0,False,2167.0,30.0,1472.0,36.0,0.0,Shanozi Gimstem,True
+6787_07,Earth,False,F/1411/P,TRAPPIST-1e,26.0,False,113.0,38.0,0.0,0.0,630.0,Masha Heffnom,False
+6810_04,???,True,E/450/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Sochiropo Firuy,True
+6816_05,Earth,True,G/1108/P,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,Ojapomo Zannurnomm,False
+6816_06,Earth,True,G/1108/P,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Soucha Goschull,True
+6827_01,Europa,False,A/84/S,55 Cancri e,73.0,False,181.0,1.0,840.0,2618.0,1949.0,Tsichuhoro Lerumz,False
+6837_01,Mars,True,E/435/P,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,Avoso Tunblu,True
+6853_01,Europa,False,C/218/P,55 Cancri e,31.0,False,0.0,1604.0,4058.0,4094.0,124.0,Mochomu Lopurumz,False
+6880_01,Mars,False,F/1315/S,TRAPPIST-1e,48.0,True,2191.0,0.0,172.0,1.0,0.0,Techiecho Nortz,False
+6882_01,Mars,True,F/1430/P,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,Sigayono Challakch,True
+6907_01,Earth,True,G/1117/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Nishomoecheja Uldradgu,True
+6920_01,Earth,False,E/462/S,TRAPPIST-1e,29.0,False,0.0,10.0,0.0,5.0,975.0,Shachich Gausu,False
+6921_01,Europa,False,C/255/S,TRAPPIST-1e,22.0,False,0.0,1914.0,2090.0,100.0,0.0,Sigosu Heech,True
+6921_06,Europa,False,C/255/S,TRAPPIST-1e,32.0,False,0.0,89.0,0.0,8330.0,1.0,Shaga Sannem,False
+6966_01,Earth,False,F/1446/P,TRAPPIST-1e,37.0,False,951.0,0.0,0.0,80.0,0.0,Yonoshato Gurag,False
+6968_01,Earth,False,F/1447/P,TRAPPIST-1e,13.0,False,0.0,114.0,682.0,0.0,7.0,Nochido Womm,False
+6971_03,Europa,True,C/225/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Yomoga Heightem,True
+6971_05,Europa,False,C/225/P,55 Cancri e,28.0,False,0.0,4173.0,0.0,33.0,420.0,Sochayiroa Imdurhall,True
+6981_01,Earth,False,F/1332/S,PSO J318.5-22,41.0,False,0.0,0.0,0.0,0.0,628.0,Epamoto Chromtz,False
+6984_03,Mars,False,F/1450/P,TRAPPIST-1e,19.0,False,1962.0,0.0,1.0,641.0,0.0,Chomuche Rattur,False
+6985_01,???,False,G/1138/S,TRAPPIST-1e,32.0,False,0.0,243.0,0.0,0.0,776.0,Nosiche Skhafur,False
+6997_01,Mars,False,D/220/P,TRAPPIST-1e,42.0,False,1058.0,0.0,0.0,0.0,0.0,Arau Skhvumchu,False
+6998_01,Earth,False,F/1454/P,TRAPPIST-1e,28.0,False,0.0,0.0,285.0,136.0,337.0,Fiskhado Gurag,False
+7001_01,Europa,True,D/213/S,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,Chirisi Helu,True
+7018_01,Mars,False,E/467/S,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,Fichinatsi Paurnomm,False
+7022_02,Europa,False,D/215/S,TRAPPIST-1e,46.0,False,0.0,664.0,0.0,2.0,2177.0,Choronerato Chekch,False
+7027_01,Earth,False,E/451/P,TRAPPIST-1e,23.0,False,26.0,266.0,404.0,0.0,0.0,Onoyo Lidcham,True
+7028_01,Earth,False,G/1148/S,55 Cancri e,5.0,False,0.0,0.0,0.0,0.0,0.0,Tsipeikha Othurluy,True
+7028_02,Earth,True,G/1148/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Mepimogo Dunbsuy,True
+7036_01,Earth,True,G/1136/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Eikha Hokchutt,True
+7044_01,Mars,False,D/221/P,TRAPPIST-1e,24.0,False,235.0,0.0,1642.0,1042.0,229.0,Shaschachiro Ualurts,False
+7045_01,Mars,False,D/222/P,55 Cancri e,19.0,False,1043.0,0.0,138.0,0.0,0.0,Nayoga Peur,False
+7050_01,Earth,False,F/1344/S,TRAPPIST-1e,13.0,False,0.0,999.0,0.0,0.0,4.0,Chonasocho Ollord,True
+7053_01,Earth,False,F/1463/P,PSO J318.5-22,23.0,False,64.0,4.0,0.0,1125.0,15.0,Hareto Luatz,False
+7056_01,Europa,False,D/217/S,55 Cancri e,43.0,False,0.0,2093.0,0.0,3409.0,30.0,Echomoe Predpukch,False
+7068_01,Earth,False,F/1350/S,PSO J318.5-22,45.0,False,0.0,0.0,0.0,0.0,595.0,Tomocho Nutz,False
+7086_01,Earth,False,F/1467/P,TRAPPIST-1e,24.0,False,590.0,0.0,1.0,168.0,16.0,Nerato Heewur,False
+7087_01,Earth,True,G/1141/P,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Noshato Lastur,True
+7091_01,Earth,True,G/1142/P,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,Tochohono Merkress,True
+7133_01,Earth,False,F/1368/S,TRAPPIST-1e,18.0,False,457.0,0.0,11.0,335.0,0.0,Mepimogo Odlur,False
+7134_01,Earth,True,G/1148/P,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,Natsihori Merth,True
+7171_01,Earth,True,G/1155/P,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Haroecho Shettem,True
+7208_02,Earth,False,F/1492/P,TRAPPIST-1e,16.0,False,23.0,479.0,0.0,0.0,373.0,Echoniro Suulumfruimd,False
+7242_01,Europa,True,B/273/S,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,Hatena Beysur,True
+7249_02,Mars,False,F/1397/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Toniro Chuulur,True
+7258_01,Earth,False,F/1502/P,TRAPPIST-1e,43.0,False,473.0,1390.0,0.0,0.0,0.0,Mochou Trett,True
+7271_01,Earth,False,G/1171/P,55 Cancri e,21.0,False,61.0,201.0,222.0,161.0,60.0,Yemoa Perkhord,False
+7277_01,Earth,True,G/1184/S,TRAPPIST-1e,36.0,False,0.0,0.0,397.5,0.0,0.0,Mamenayo Valus,True
+7297_01,Earth,False,G/1188/S,TRAPPIST-1e,40.0,False,678.0,0.0,229.0,0.0,0.0,Opu Loiratz,False
+7302_01,Mars,False,E/486/S,TRAPPIST-1e,33.0,False,728.0,0.0,285.0,0.0,0.0,Chejano Rakhtur,False
+7303_01,Earth,False,E/487/S,TRAPPIST-1e,51.0,False,3.0,33.0,12.0,38.0,896.0,Togovo Peskh,False
+7305_01,Earth,True,G/1190/S,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,Sotochu Wollery,True
+7306_01,Earth,False,E/471/P,55 Cancri e,26.0,False,1.0,0.0,0.0,0.0,718.0,Sigoa Veedvord,True
+7313_01,Mars,False,D/231/P,TRAPPIST-1e,41.0,False,2754.0,398.0,21.0,0.0,0.0,Mochonete Hipur,False
+7330_01,???,False,C/268/S,TRAPPIST-1e,27.0,False,0.0,63.0,8.0,129.0,2960.0,Megikha Sannem,False
+7340_01,Europa,False,E/475/P,TRAPPIST-1e,60.0,False,0.0,307.0,0.0,484.0,1967.0,Gumdo Noaur,False
+7343_01,Earth,False,F/1412/S,TRAPPIST-1e,22.0,False,0.0,0.0,1.0,95.0,605.0,Chatome Pehm,False
+7353_02,Europa,True,C/269/S,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,Esham Pirgu,True
+7393_01,Earth,False,E/478/P,???,40.0,False,0.0,0.0,0.0,7.0,782.0,Chojohoro Druskhmur,False
+7402_01,Europa,False,C/272/S,TRAPPIST-1e,16.0,False,0.0,1417.0,3.0,27.0,186.0,Chenotsi Ruygom,True
+7410_01,Earth,False,G/1201/S,TRAPPIST-1e,41.0,False,85.0,804.0,0.0,0.0,0.0,Choronerato Ruuwus,True
+7419_02,Earth,False,F/1535/P,TRAPPIST-1e,47.0,False,0.0,61.0,805.0,0.0,6.0,Niriyono Sylwustur,True
+7435_01,Europa,True,B/244/P,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Hagoshachima Pikhomom,True
+7437_01,Europa,True,B/279/S,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,Shimsum Jesubh,True
+7442_02,Earth,True,???,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,Harocha Chastlur,False
+7444_01,Earth,True,G/1203/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Asedo Oist,False
+7449_01,Earth,False,F/1541/P,PSO J318.5-22,20.0,False,120.0,321.0,0.0,932.0,175.0,Gishachum Stirn,False
+7452_02,Europa,False,B/281/S,55 Cancri e,26.0,False,286.0,3387.0,575.0,213.0,548.0,Egavoro Ervam,True
+7485_01,Europa,False,???,TRAPPIST-1e,26.0,False,36.0,2285.0,0.0,2287.0,159.0,Totsiche Cholp,False
+7500_01,???,False,F/1432/S,TRAPPIST-1e,54.0,True,1770.0,7.0,228.0,0.0,0.0,Roachotija Lopurumz,False
+7515_01,Mars,True,F/1437/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Chovosovo Hortnomm,False
+7515_02,Mars,False,F/1437/S,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Chonamogo Puor,True
+7536_01,Mars,True,F/1440/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Echiro Duwembert,True
+7542_01,Earth,False,F/1442/S,TRAPPIST-1e,35.0,False,4.0,53.0,0.0,0.0,844.0,Chirchovo Amgurslupum,False
+7545_01,Earth,True,G/1225/S,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Shareyono Trinpoiur,False
+7553_01,Earth,False,F/1444/S,PSO J318.5-22,19.0,False,10.0,24.0,0.0,0.0,565.0,Noriyo Huamtzu,False
+7565_04,Europa,False,B/247/P,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Yechechovo Kerkerom,True
+7572_01,Earth,True,G/1228/S,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Techidenu Frenn,False
+7584_01,Europa,False,B/288/S,???,19.0,False,0.0,0.0,0.0,0.0,0.0,Ahoro Mauld,True
+7585_01,Europa,True,C/281/S,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,Dugikha Guusem,True
+7588_01,Earth,True,G/1219/P,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,Turochode Ruus,True
+7588_02,Earth,False,G/1219/P,55 Cancri e,15.0,False,0.0,714.0,0.0,0.0,0.0,Auyesha Fraumd,True
+7625_01,Earth,False,F/1458/S,TRAPPIST-1e,21.0,False,0.0,0.0,114.0,2.0,683.0,Chovoshano Hopur,False
+7628_02,Mars,False,D/240/P,TRAPPIST-1e,36.0,False,1103.0,3.0,0.0,0.0,659.0,Chepoyosha Greau,False
+7631_01,Europa,False,E/497/P,TRAPPIST-1e,33.0,False,81.0,1125.0,481.0,505.0,1261.0,Ashaposha Churvur,False
+7632_01,Mars,False,D/226/S,TRAPPIST-1e,28.0,False,2703.0,0.0,4.0,1.0,0.0,Etsi Huamrakhs,False
+7643_02,Europa,True,C/247/P,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,Shanozi Tvamu,True
+7646_03,Europa,False,C/285/S,55 Cancri e,24.0,False,145.0,4224.0,0.0,5.0,61.0,Yonohoto Verroll,True
+7647_01,Earth,False,G/1240/S,TRAPPIST-1e,24.0,False,0.0,7.0,127.0,639.0,37.0,Nishomoecheja Imturpramch,False
+7690_01,Earth,False,G/1234/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Iregotoyo Domaul,True
+7693_01,Europa,False,B/252/P,TRAPPIST-1e,36.0,False,0.0,2979.0,0.0,68.0,347.0,Tochogocha Chholafo,True
+7694_01,Earth,False,F/1599/P,TRAPPIST-1e,30.0,False,574.0,0.0,92.5,25.0,2.0,Tochoga Wemaussum,False
+7703_02,???,True,G/1251/S,TRAPPIST-1e,13.0,False,0.0,0.0,6.5,0.0,0.0,Abbatsisoa Pitlur,True
+7707_01,Earth,False,G/1237/P,???,23.0,False,40.0,4.0,9.0,318.0,1413.0,Suchamu Noaur,False
+7709_02,Earth,True,G/1238/P,PSO J318.5-22,24.0,False,0.0,884.5,0.0,0.0,0.0,Chumtore Nesur,False
+7738_01,Mars,True,F/1476/S,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Chedono Trinb,True
+7760_01,Earth,False,G/1253/S,PSO J318.5-22,32.0,False,0.0,494.0,0.0,0.0,213.0,Mogoa Stiukch,False
+7778_02,Mars,True,E/510/S,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Votego Pingormur,False
+7802_01,Mars,False,F/1620/P,TRAPPIST-1e,33.0,False,166.0,634.0,419.0,201.0,1178.0,Teshashoa Fopul,False
+7821_01,???,False,G/1264/S,TRAPPIST-1e,23.0,False,535.0,3.0,17.0,0.0,214.0,Chamoshato Umms,False
+7831_01,Mars,False,F/1626/P,TRAPPIST-1e,16.0,False,1095.0,0.0,54.0,0.0,0.0,Ezovo Ussur,False
+7837_01,Europa,True,B/306/S,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,Yeshafina Hegom,True
+7848_01,Mars,False,???,TRAPPIST-1e,29.0,False,1052.0,0.0,635.0,0.0,0.0,Mogotsicho Choipu,False
+7856_01,Earth,False,F/1503/S,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,156.0,620.0,Echino Valdgripu,False
+7875_01,Europa,True,B/309/S,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,Teri Hoddum,True
+7882_02,Earth,False,G/1271/P,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,Mochohoro Praght,True
+7884_01,Mars,False,E/512/P,TRAPPIST-1e,23.0,False,1610.0,2.0,465.0,0.0,0.0,Togovo Hoibt,False
+7890_02,Earth,True,G/1273/S,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,Duisha Flowull,True
+7903_01,Earth,False,F/1638/P,TRAPPIST-1e,39.0,False,472.0,0.0,0.0,173.0,0.0,Fichiyono Velf,False
+7905_02,Europa,True,C/296/S,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,1220.5,0.0,Sochochaporo Hoamus,True
+7916_01,Earth,True,G/1279/P,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Dugikha Trattum,False
+7937_01,Europa,False,D/229/S,TRAPPIST-1e,36.0,False,0.0,9532.0,0.0,2326.0,461.0,Mezoro Nortz,False
+7941_01,Europa,False,C/257/P,TRAPPIST-1e,41.0,False,0.0,116.0,10705.0,9181.0,10.0,Emasha Chrisu,False
+7943_02,Europa,False,B/258/P,PSO J318.5-22,36.0,True,2.0,6504.0,0.0,98.0,4.0,Gumja Purgur,True
+7950_04,Earth,True,G/1287/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Egyi Ammus,True
+7962_01,Earth,False,G/1290/P,TRAPPIST-1e,14.0,False,0.0,360.0,0.0,25.0,1340.0,Sharoasha Ferst,False
+7981_02,Earth,False,G/1293/P,TRAPPIST-1e,22.0,False,31.0,0.0,1.0,25.0,757.0,Neramogo Stroip,False
+7996_01,Earth,False,F/1657/P,TRAPPIST-1e,39.0,False,17.0,334.0,708.0,17.0,366.0,Chovochona Skhvumchu,False
+8007_02,Earth,False,E/517/P,PSO J318.5-22,24.0,False,0.0,0.0,92.0,1492.0,0.0,Akhasodo Bruuku,True
+8015_02,Europa,False,B/315/S,TRAPPIST-1e,36.0,False,0.0,244.0,0.0,5432.0,2302.0,Mochodoa Vahmur,False
+8021_01,Earth,True,G/1298/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Chegikha Skhvortz,False
+8025_01,Europa,False,B/263/P,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,Mezocha Malus,True
+8034_01,Mars,True,E/532/S,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,Ashagire Varmhar,False
+8038_01,Europa,True,C/301/S,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,Shapogikha Uotem,True
+8063_01,Earth,False,F/1543/S,TRAPPIST-1e,20.0,False,0.0,25.0,0.0,11.0,0.0,Atona Hurpurt,False
+8122_01,Europa,False,C/302/S,55 Cancri e,58.0,False,0.0,226.0,0.0,5481.0,329.5,Teyedo Serg,False
+8122_02,Europa,False,C/302/S,TRAPPIST-1e,37.0,False,79.0,218.0,0.0,442.0,659.0,Hotochuyono Gruag,True
+8130_01,Earth,True,G/1308/S,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Chotsichovo Niullur,False
+8130_02,Earth,False,G/1308/S,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Yecheyono Choifnom,False
+8131_01,Mars,True,F/1557/S,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Nazegikha Tabs,True
+8159_01,Earth,False,F/1687/P,???,26.0,False,0.0,0.0,0.0,622.0,8.0,Hemona Herm,False
+8168_03,Earth,False,F/1561/S,TRAPPIST-1e,21.0,False,644.0,0.0,0.0,0.0,2.0,Ishapo Hipur,False
+8186_01,Earth,False,G/1319/S,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Oshao Redragius,True
+8194_01,Earth,False,F/1567/S,TRAPPIST-1e,18.0,False,0.0,0.0,662.0,30.0,0.0,Chezi Erpull,True
+8199_01,Earth,False,G/1329/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Hono Purmot,False
+8207_01,Mars,True,F/1695/P,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Toyono Fexluy,True
+8208_01,Earth,True,G/1322/S,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,Aajano Warge,True
+8213_01,Earth,False,G/1333/P,TRAPPIST-1e,32.0,False,0.0,2.0,1.0,0.0,881.0,Harogo Lumz,False
+8260_01,Earth,False,F/1582/S,55 Cancri e,19.0,False,84.0,4.0,4.0,629.0,0.0,Osoha Fromchu,False
+8264_01,Mars,False,F/1584/S,TRAPPIST-1e,21.0,False,32.0,0.0,1008.0,0.0,0.0,Hoyosha Nutkolf,True
+8276_01,Europa,False,C/273/P,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,Tenaecho Aomsem,True
+8288_02,Mars,False,F/1705/P,TRAPPIST-1e,15.0,False,1150.0,0.0,175.0,1.0,11.0,Teshatolo Cholp,False
+8297_01,???,False,F/1592/S,TRAPPIST-1e,21.0,False,5.0,0.0,0.0,22.0,639.0,Fisu Paupur,False
+8298_01,Mars,True,F/1593/S,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,Soateh Chmaght,True
+8313_01,Earth,False,G/1341/S,TRAPPIST-1e,30.0,False,467.0,0.0,0.0,0.0,287.0,Uzochayo Satz,False
+8322_02,???,True,C/312/S,55 Cancri e,52.0,False,0.0,0.0,0.0,0.0,0.0,Ajara Geldsnath,True
+8334_01,Earth,True,G/1359/P,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,Nochido Mauld,True
+8338_02,Mars,False,F/1716/P,TRAPPIST-1e,45.0,False,506.0,0.0,2.0,829.0,0.0,Khashi Hitnokhur,False
+8344_03,Mars,True,D/247/S,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,Sogo Eochtem,True
+8369_02,Mars,False,E/549/S,TRAPPIST-1e,57.0,True,435.0,22.0,1435.0,4.0,0.0,Tomazocha Fromchash,True
+8380_01,Earth,True,G/1367/P,PSO J318.5-22,25.0,False,0.0,0.0,0.0,0.0,0.0,Tsinunoso Shuorur,True
+8381_01,Earth,False,E/550/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,788.0,3.0,Fichisochi Laupurumz,False
+8383_03,Earth,False,G/1368/P,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Tsichonete Wammy,True
+8383_04,Earth,True,G/1368/P,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Mochoe Tylur,True
+8383_07,Earth,False,G/1368/P,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,Reyono Amgurslupum,False
+8419_01,Earth,False,F/1618/S,TRAPPIST-1e,19.0,False,0.0,168.0,481.0,0.0,0.0,Ochitogovo Gedfruy,True
+8448_01,Europa,True,B/278/P,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,1175.0,Topikha Plokchneru,True
+8454_01,Earth,False,G/1354/S,TRAPPIST-1e,19.0,False,112.0,0.0,265.0,396.0,0.0,Homopiso Voltur,False
+8466_01,Earth,False,F/1737/P,TRAPPIST-1e,21.0,False,0.0,5.0,0.0,687.0,10.0,Hetotu Nesur,False
+8467_01,Earth,True,G/1379/P,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Hashado Wolumtamu,True
+8470_01,Europa,False,C/281/P,55 Cancri e,31.0,True,8243.0,280.0,0.0,3220.0,2285.0,Umecha Butur,False
+8472_01,Earth,True,G/1380/P,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,Natsivo Skhilzu,False
+8475_01,Europa,False,B/331/S,55 Cancri e,49.0,False,0.0,2808.0,1083.0,110.0,1132.0,Chezi Chmuf,False
+8480_02,Earth,False,G/1382/P,TRAPPIST-1e,38.0,False,0.0,847.0,3.0,34.0,0.0,Yononete Nuaur,False
+8494_01,Mars,False,E/543/P,TRAPPIST-1e,42.0,False,770.0,0.0,1301.0,627.0,0.0,Ashahoro Korty,True
+8511_01,Earth,False,G/1365/S,PSO J318.5-22,51.0,False,590.0,28.0,73.0,0.0,82.0,Heje Reth,False
+8574_05,Mars,True,F/1653/S,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,Upasovo Nirroy,True
+8584_01,Earth,False,F/1655/S,TRAPPIST-1e,22.0,False,4.0,0.0,72.0,21.0,600.0,Echome Uwurhort,False
+8604_01,Mars,False,F/1765/P,???,37.0,False,50.0,0.0,343.0,2205.0,0.0,Fisu Chosbor,False
+8605_05,Europa,True,C/324/S,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,Orato Juffkekch,True
+8613_01,Earth,False,G/1388/S,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,Amoe Nokbhursem,True
+8616_02,Mars,True,F/1767/P,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,Ekhado Full,True
+8628_01,Earth,False,F/1664/S,PSO J318.5-22,49.0,False,0.0,18.0,0.0,0.0,686.0,Tochi Flotur,False
+8638_01,Earth,True,G/1402/P,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,Mashahoro Herevatz,False
+8645_01,Earth,False,F/1776/P,55 Cancri e,23.0,False,1.0,26.0,1908.0,318.0,0.0,Yonoshato Studnom,True
+8667_01,Mars,False,F/1676/S,TRAPPIST-1e,20.0,False,733.0,0.0,455.0,0.0,0.0,Niroto Chimzu,False
+8673_01,Europa,True,C/285/P,???,27.0,False,0.0,0.0,0.0,0.0,0.0,Chovokha Uglom,True
+8675_01,Europa,True,B/281/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Sotochu Poll,True
+8681_03,Mars,False,F/1787/P,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Sharotera Jehomsum,True
+8684_01,Earth,False,F/1788/P,TRAPPIST-1e,18.0,False,1.0,1.0,0.0,226.0,488.0,Sochogona Norqiordt,False
+8685_01,Earth,True,G/1400/S,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,Fijashano Stirguss,True
+8704_01,Mars,True,F/1686/S,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Chachitochu Horlev,True
+8717_01,Earth,False,F/1689/S,TRAPPIST-1e,38.0,False,139.0,9.0,0.0,0.0,582.0,Eharo Opul,False
+8720_01,Earth,False,F/1690/S,55 Cancri e,23.0,False,0.0,247.0,1063.0,36.0,0.0,Nochagikha Bheumax,True
+8728_04,Earth,False,F/1798/P,PSO J318.5-22,38.0,False,647.0,23.0,1.0,0.0,0.0,Notsizovo Chastlur,False
+8741_02,Europa,False,A/91/P,55 Cancri e,49.0,False,0.0,3853.0,0.0,245.0,178.0,Chochitono Peiltem,True
+8754_01,Earth,False,G/1408/S,TRAPPIST-1e,22.0,False,151.0,0.0,613.0,6.0,0.0,Yeshanotsi Satz,False
+8774_01,Earth,True,G/1412/S,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,Ashahoro Gorlomd,True
+8786_01,Europa,True,B/284/P,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,Jeshiyo Nallutt,True
+8790_01,Europa,False,D/277/P,55 Cancri e,25.0,False,698.0,4978.0,0.0,146.0,0.0,Nozicho Heightem,True
+8796_03,Earth,True,G/1418/S,TRAPPIST-1e,0.0,False,294.0,0.0,0.0,0.0,0.0,Turoikha Lopurumz,False
+8796_08,Earth,True,G/1418/S,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,Ekhaoa Voltur,True
+8812_01,Mars,True,E/564/P,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,Ehasha Sumft,False
+8826_03,Europa,False,C/290/P,TRAPPIST-1e,46.0,False,1384.0,229.0,0.0,1572.0,1.0,Inora Fihrnomm,False
+8831_01,Mars,True,F/1713/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Mochonete Lowurakch,True
+8836_02,Earth,True,G/1430/P,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,Egoto Jellumpukch,False
+8841_01,Mars,True,F/1822/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Chenem Skhnadt,True
+8844_01,Earth,False,E/579/S,55 Cancri e,19.0,False,0.0,0.0,717.0,1.0,0.0,Sosochovo Jumchams,True
+8862_04,Europa,True,C/329/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Tenanete Jaggums,True
+8880_01,Mars,True,F/1829/P,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,Apicho Triskett,True
+8886_03,Earth,False,G/1433/S,PSO J318.5-22,1.0,False,0.0,0.0,0.0,0.0,0.0,Some Golwam,True
+8920_01,Europa,False,D/280/P,TRAPPIST-1e,26.0,False,0.0,70.0,0.0,41.0,46.5,Chomodo Nuasmur,False
+8928_01,Europa,True,C/333/S,55 Cancri e,52.0,False,0.0,0.0,0.0,46.5,0.0,Hemona Ovod,True
+8930_01,Earth,False,F/1725/S,PSO J318.5-22,23.0,False,0.0,471.0,120.0,13.0,6.0,Yihoro Nokorthir,True
+8937_01,Europa,True,E/574/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Yeshamepi Ullamghon,True
+8944_02,Earth,False,G/1442/S,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,Nayonou Oylaffu,True
+8955_01,Earth,False,F/1837/P,TRAPPIST-1e,31.0,False,0.0,1524.0,0.0,0.0,0.0,Ia Noirur,False
+8956_03,Earth,False,G/1453/P,PSO J318.5-22,24.0,False,0.0,0.0,40.0,0.0,575.0,Onoyo Voltur,False
+8975_02,Earth,False,F/1840/P,TRAPPIST-1e,27.0,False,1.0,118.0,0.0,20.0,948.0,Dea Gress,False
+8976_01,Earth,False,F/1737/S,TRAPPIST-1e,35.0,False,1.0,0.0,0.0,0.0,803.0,Teje Chmebf,False
+8983_01,Earth,False,E/576/P,TRAPPIST-1e,47.0,False,42.0,509.0,0.0,0.0,1057.0,Shanozocha Semmum,False
+8985_01,Earth,False,F/1842/P,55 Cancri e,22.0,False,0.0,0.0,626.0,0.0,14.0,Akhagovo Rethskhald,False
+8986_02,Earth,False,F/1740/S,PSO J318.5-22,22.0,False,0.0,17.0,0.0,620.0,0.0,Nemenemea Chimchlu,False
+8988_08,Earth,True,G/1448/S,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,Sogo Strehcharkh,False
+9008_02,Earth,True,F/1745/S,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Oravo Weagt,False
+9015_01,Europa,False,B/344/S,55 Cancri e,41.0,False,3.0,1320.0,0.0,0.0,12392.0,Chemasha Vuagomd,False
+9021_02,Mars,False,D/286/P,TRAPPIST-1e,26.0,True,1297.0,0.0,62.0,0.0,364.0,Ashayono Skhnadt,False
+9032_01,Mars,True,E/578/P,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,Iuniro Choifnom,False
+9036_01,Earth,True,G/1467/P,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,Yesome Asnom,True
+9041_01,Earth,True,G/1470/P,PSO J318.5-22,30.0,False,0.0,0.0,0.0,235.5,0.0,Memeniro Uvam,True
+9043_01,???,True,F/1848/P,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,Tochide Fovkutt,True
+9046_01,Europa,True,C/335/S,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,Chisihoro Urradgu,True
+9046_02,Europa,False,C/335/S,TRAPPIST-1e,25.0,False,6899.0,265.0,0.0,2234.0,2090.0,Shedo Gres,False
+9048_01,Earth,True,G/1471/P,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,Chigo Ualurts,False
+9069_04,Europa,False,B/297/P,TRAPPIST-1e,44.0,False,0.0,4313.0,0.0,568.0,7.0,Chote Pemd,True
+9074_02,Earth,False,G/1460/S,PSO J318.5-22,27.0,False,0.0,468.0,0.0,59.0,309.0,Siumona Hornom,False
+9077_02,Earth,True,G/1475/P,PSO J318.5-22,22.0,False,0.0,0.0,0.0,0.0,0.0,Chedono Sannem,False
+9085_01,Europa,False,A/95/P,55 Cancri e,70.0,False,0.0,2113.0,0.0,1972.0,51.0,Cheyomoga Chimchul,False
+9085_03,Europa,True,A/95/P,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,Choano Hekchamg,True
+9108_02,Earth,False,G/1468/S,TRAPPIST-1e,37.0,False,15.0,7.0,0.0,786.0,0.0,Fichizovo Fromchu,False
+9132_02,Mars,False,F/1871/P,TRAPPIST-1e,28.0,False,1789.0,16.0,3.0,10.0,1.0,Yonomocho Vamthur,False
+9149_02,Europa,False,B/350/S,55 Cancri e,22.0,False,0.0,36.0,1.0,3761.0,4521.0,Nire Saschamd,False
+9152_01,Earth,True,G/1491/P,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Teyeshano Keikh,True
+9157_03,Earth,False,G/1476/S,PSO J318.5-22,10.0,False,0.0,0.0,0.0,0.0,0.0,Emedo Puukh,True
+9161_02,Earth,True,G/1493/P,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,Osoha Uwurall,True
+9189_01,Earth,False,F/1777/S,PSO J318.5-22,18.0,False,87.0,41.0,483.0,0.0,0.0,Shapomino Chossnuyur,False
+9197_03,Europa,False,C/308/P,TRAPPIST-1e,31.0,False,0.0,4634.0,8.0,616.0,0.0,Mogosovo Jeymsem,True
+9197_04,Europa,False,C/308/P,55 Cancri e,30.0,False,1569.0,2317.0,0.0,308.0,2252.0,Hoteyono Irslur,False
+9205_02,Europa,True,B/300/P,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,Ashaposha Revu,True
+9231_01,Mars,True,F/1888/P,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,Ehnou Tretnom,True
+9239_01,Mars,False,E/593/P,TRAPPIST-1e,14.0,False,2.0,0.0,918.0,128.0,0.0,Azina Pultz,False
+9252_01,Europa,False,B/301/P,55 Cancri e,26.0,False,0.0,8160.0,205.0,0.0,438.0,Fimoposha Ashurved,True
